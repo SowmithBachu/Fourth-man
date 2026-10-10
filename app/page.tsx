@@ -72,13 +72,6 @@ export default function Landing() {
                 <IconArrow dir="right" className="h-4 w-4" />
               </Link>
             </div>
-            <ul className="mt-7 flex flex-wrap gap-x-5 gap-y-2 text-[13px] text-fg/75">
-              {["Official Dream11 T20 rules", "English + Hinglish", "No sign-up, no live data"].map((t) => (
-                <li key={t} className="flex items-center gap-1.5">
-                  <IconCheck className="h-4 w-4 text-lime" /> {t}
-                </li>
-              ))}
-            </ul>
           </div>
 
           <PersonaOrbit />
@@ -173,13 +166,9 @@ export default function Landing() {
         <section className="mb-12 overflow-hidden rounded-3xl border border-lime/30 bg-gradient-to-br from-lime/15 via-panel to-panel p-6 sm:p-10">
           <div className="flex flex-wrap items-center justify-between gap-6">
             <div className="max-w-[620px]">
-              <div className="text-[12px] font-bold uppercase tracking-[0.18em] text-lime">Start with a classic</div>
               <h2 className="mt-2 font-display text-[34px] font-extrabold uppercase leading-[0.95] tracking-tight sm:text-[46px]">
                 {MATCHES.length} famous chases. {MATCHES.reduce((n, b) => n + b.moments.length, 0)} frozen moments.
               </h2>
-              <p className="mt-3 text-[15.5px] text-fg/80">
-                Kohli at the MCG, Karthik in Colombo, Brathwaite in Kolkata. Pick a lens and step through the overs that decided them.
-              </p>
             </div>
             <Link
               href="/watch/beginner"
@@ -191,7 +180,7 @@ export default function Landing() {
           </div>
         </section>
 
-        
+
       </div>
     </div>
   );
