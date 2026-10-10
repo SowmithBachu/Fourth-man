@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "verified": true,
+    "format": "T20",
+    "title": "Dream11 Fantasy Points System — Cricket / T20",
+    "officialUrl": "https://www.dream11.com/games/point-system",
+    "archivedCopyUrl": "https://web.archive.org/web/20260114025834/https://www.dream11.com/games/point-system",
+    "archivedCopyCapturedOn": "2026-01-14",
+    "crossCheckedAgainst": "https://web.archive.org/web/20260106230833/https://www.dream11.com/games/point-system",
+    "retrievedOn": "2026-10-10",
+    "retrievalNote": "On 2026-10-10 the live official page returned a 'Server down!' error, so every value below was transcribed from the Wayback Machine copy of that official page (T20 tab, panel #t20). The 2026-01-06 and 2026-01-14 captures are identical.",
+    "scopeNote": "These are Dream11's current T20 rules applied to a 2022 match for demonstration. They are not the rules that were in force in October 2022."
+  },
+  "rules": [
+    { "id": "bat.run", "category": "batting", "label": "Run", "points": 1, "verbatim": "Run +1" },
+    { "id": "bat.boundary_bonus", "category": "batting", "label": "Boundary Bonus", "points": 4, "verbatim": "Boundary Bonus +4" },
+    { "id": "bat.six_bonus", "category": "batting", "label": "Six Bonus", "points": 6, "verbatim": "Six Bonus +6" },
+    { "id": "bat.25_run_bonus", "category": "batting", "label": "25 Run Bonus", "points": 4, "verbatim": "25 Run Bonus +4" },
+    { "id": "bat.half_century_bonus", "category": "batting", "label": "Half-century Bonus", "points": 8, "verbatim": "Half-century Bonus +8" },
+    { "id": "bat.75_run_bonus", "category": "batting", "label": "75 Run Bonus", "points": 12, "verbatim": "75 Run Bonus +12" },
+    { "id": "bat.century_bonus", "category": "batting", "label": "Century Bonus", "points": 16, "verbatim": "Century Bonus 16" },
+    { "id": "bat.duck", "category": "batting", "label": "Dismissal for a duck", "points": -2, "appliesTo": "Batter, Wicket-Keeper & All-Rounder", "verbatim": "Dismissal for a duck Batter, Wicket-Keeper & All-Rounder -2" },
+
+    { "id": "bowl.dot_ball", "category": "bowling", "label": "Dot Ball", "points": 1, "verbatim": "Dot Ball +1" },
+    { "id": "bowl.wicket", "category": "bowling", "label": "Wicket (Excluding Run Out)", "points": 30, "verbatim": "Wicket Excluding Run Out +30" },
+    { "id": "bowl.lbw_bowled_bonus", "category": "bowling", "label": "Bonus (LBW / Bowled)", "points": 8, "verbatim": "Bonus (LBW / Bowled) +8" },
+    { "id": "bowl.3_wicket_bonus", "category": "bowling", "label": "3 Wicket Bonus", "points": 4, "verbatim": "3 Wicket Bonus +4" },
+    { "id": "bowl.4_wicket_bonus", "category": "bowling", "label": "4 Wicket Bonus", "points": 8, "verbatim": "4 Wicket Bonus +8" },
+    { "id": "bowl.5_wicket_bonus", "category": "bowling", "label": "5 Wicket Bonus", "points": 12, "verbatim": "5 Wicket Bonus +12" },
+    { "id": "bowl.maiden", "category": "bowling", "label": "Maiden Over", "points": 12, "verbatim": "Maiden Over +12" },
+
+    { "id": "field.catch", "category": "fielding", "label": "Catch", "points": 8, "verbatim": "Catch +8" },
+    { "id": "field.3_catch_bonus", "category": "fielding", "label": "3 Catch Bonus", "points": 4, "verbatim": "3 Catch Bonus +4" },
+    { "id": "field.stumping", "category": "fielding", "label": "Stumping", "points": 12, "verbatim": "Stumping +12" },
+    { "id": "field.run_out_direct", "category": "fielding", "label": "Run out (Direct hit)", "points": 12, "verbatim": "Run out (Direct hit) +12" },
+    { "id": "field.run_out_indirect", "category": "fielding", "label": "Run out (Not a direct hit)", "points": 6, "verbatim": "Run out (Not a direct hit) +6" },
+
+    { "id": "other.announced_lineup", "category": "other", "label": "In announced lineups", "points": 4, "verbatim": "In announced lineups +4" },
+    { "id": "other.playing_substitute", "category": "other", "label": "Playing Substitute (Concussion, COVID-19, X-Factor, or Impact Player)", "points": 4, "verbatim": "Playing Substitute (Concussion, COVID-19, X-Factor, or Impact Player) +4" }
+  ],
+  "multipliers": {
+    "captain": { "label": "Captain", "value": 2, "verbatim": "Captain 2x" },
+    "viceCaptain": { "label": "Vice-Captain", "value": 1.5, "verbatim": "Vice-Captain 1.5x" }
+  },
+  "economyRate": {
+    "id": "rate.economy",
+    "label": "Economy Rate",
+    "minBalls": 12,
+    "minimumVerbatim": "Min 2 Overs To Be Bowled",
+    "unit": "runs per over",
+    "bands": [
+      { "lt": 5, "points": 6, "verbatim": "Below 5 runs per over +6" },
+      { "gte": 5, "lte": 5.99, "points": 4, "verbatim": "Between 5-5.99 runs per over +4" },
+      { "gte": 6, "lte": 7, "points": 2, "verbatim": "Between 6-7 runs per over +2" },
+      { "gte": 10, "lte": 11, "points": -2, "verbatim": "Between 10-11 runs per over -2" },
+      { "gte": 11.01, "lte": 12, "points": -4, "verbatim": "Between 11.01-12 runs per over -4" },
+      { "gt": 12, "points": -6, "verbatim": "Above 12 runs per over -6" }
+    ]
+  },
+  "strikeRate": {
+    "id": "rate.strike",
+    "label": "Strike Rate (Except Bowler)",
+    "minBalls": 10,
+    "minimumVerbatim": "Min 10 Balls To Be Played",
+    "unit": "runs per 100 balls",
+    "bands": [
+      { "gt": 170, "points": 6, "verbatim": "Above 170 runs per 100 balls +6" },
+      { "gte": 150.01, "lte": 170, "points": 4, "verbatim": "Between 150.01-170 runs per 100 balls +4" },
+      { "gte": 130, "lte": 150, "points": 2, "verbatim": "Between 130-150 runs per 100 balls +2" },
+      { "gte": 60, "lte": 70, "points": -2, "verbatim": "Between 60-70 runs per 100 balls -2" },
+      { "gte": 50, "lte": 59.99, "points": -4, "verbatim": "Between 50-59.99 runs per 100 balls -4" },
+      { "lt": 50, "points": -6, "verbatim": "Below 50 runs per 100 balls -6" }
+    ],
+    "noteVerbatim": "Negative points for low batting Strike Rates are only applicable for individual Strike Rates of 70 runs per 100 balls or below."
+  },
+  "officialNotesVerbatim": [
+    "Any player scoring a century will only get points for the century. No points will be awarded as their 30 run Bonus or Half-century Bonus. Additionally, no points are awarded for centuries in T10 matches.",
+    "If any runs are scored on an overthrow, points for those runs will be credited to the batter on strike for that ball. However, if the overthrow goes for a boundary, the batter will not receive extra Boundary Bonus points.",
+    "A direct hit is inflicted by the fielder who is the only one to touch the ball after the batter faces the delivery. In all other cases, points will be awarded only to the last 2 fielders who touch the ball.",
+    "Players taking more than 3 catches will also get 4 points as 3 Catch Bonus. For example, if a player takes 6 catches, he/she will not get 8 points.",
+    "No points will be awarded for any actions during a Super Over or a Super Five."
+  ],
+  "howFourthManAppliesThem": [
+    {
+      "topic": "Runs and extras",
+      "reading": "'Run +1' is applied to runs credited to the batter on the official scorecard. Byes, leg-byes, wides and the one-run no-ball penalty are extras, not the batter's runs, so no batting points are assigned for them. The page lists no separate rule for extras."
+    },
+    {
+      "topic": "Sixes",
+      "reading": "A six is scored as 6 x 'Run' plus 'Six Bonus'. 'Boundary Bonus' is treated as the bonus for fours and is not added on top of a six."
+    },
+    {
+      "topic": "Strike rate and economy",
+      "reading": "Rates are only scored once an innings is complete, using the official scorecard's final runs and balls. Values are rounded to 2 decimals before matching a band. A value between bands earns 0."
+    }
+  ],
+  "notDefinedOnPage": [
+    {
+      "id": "dot_ball_on_wicket",
+      "topic": "Dot Ball (+1) on a wicket delivery",
+      "decision": "Not awarded — marked unavailable. The page lists 'Dot Ball +1' but does not say whether a delivery that takes a wicket counts."
+    },
+    {
+      "id": "dot_ball_with_byes",
+      "topic": "Dot Ball (+1) on a delivery with byes",
+      "decision": "Not awarded — marked unavailable. The page does not say how byes interact with the Dot Ball rule."
+    }
+  ]
+}

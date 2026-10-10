@@ -1,0 +1,1748 @@
+{
+  "matches": [
+    {
+      "match": {
+        "id": "ind-v-pak-2022",
+        "shortTitle": "IND v PAK",
+        "demoLabel": "Demo replay · Completed match · Not live",
+        "dataNote": { "kind": "verified", "label": "Ball-by-ball verified · ESPNcricinfo" },
+        "competition": "ICC Men's T20 World Cup 2022",
+        "stage": "Super 12 · Group 2",
+        "venue": "Melbourne Cricket Ground",
+        "venueShort": "MCG",
+        "dateLabel": "23 Oct 2022",
+        "chasing": { "code": "IND", "name": "India", "color": "#2f6fe0" },
+        "defending": { "code": "PAK", "name": "Pakistan", "color": "#13874c" },
+        "firstInnings": { "code": "PAK", "runs": 159, "wickets": 8, "overs": "20" },
+        "target": 160,
+        "totalBalls": 120,
+        "result": "India won by 4 wickets (off the last ball)",
+        "resultBanner": { "en": "India win by 4 wickets · last ball", "hi": "India 4 wickets se jeeta · last ball" },
+        "hook": {
+          "en": "31/4 early on. 16 needed off the last over. Kohli 82 not out.",
+          "hi": "Shuru mein 31/4. Last over mein 16 chahiye. Kohli 82 not out."
+        },
+        "sources": {
+          "cricinfo-bbb": {
+            "label": "ESPNcricinfo ball-by-ball",
+            "url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/india-vs-pakistan-16th-match-group-2-1298150/ball-by-ball-commentary"
+          },
+          "cricinfo-scorecard": {
+            "label": "ESPNcricinfo scorecard",
+            "url": "https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134/india-vs-pakistan-16th-match-group-2-1298150/full-scorecard"
+          },
+          "cricinfo-stats": {
+            "label": "ESPNcricinfo stats analysis",
+            "url": "https://www.espncricinfo.com/story/t20-world-cup-2022-ind-vs-pak-stats-virat-kohli-record-rescue-act-india-complete-tricky-chase-1341352"
+          },
+          "computed": { "label": "Computed from ball-by-ball" }
+        }
+      },
+      "timelineStart": { "runs": 129, "wickets": 4, "balls": 108 },
+      "timeline": [
+        { "id": "18.1", "over": 19, "bowler": "Haris Rauf", "label": "1", "kind": "run", "runs": 1, "legal": true, "desc": "Rauf to Hardik, 1 run" },
+        { "id": "18.2", "over": 19, "bowler": "Haris Rauf", "label": "1", "kind": "run", "runs": 1, "legal": true, "desc": "Rauf to Kohli, 1 run" },
+        { "id": "18.3", "over": 19, "bowler": "Haris Rauf", "label": "0", "kind": "dot", "runs": 0, "legal": true, "desc": "Rauf to Hardik, no run" },
+        { "id": "18.4", "over": 19, "bowler": "Haris Rauf", "label": "1", "kind": "run", "runs": 1, "legal": true, "desc": "Rauf to Hardik, 1 run" },
+        { "id": "18.5", "over": 19, "bowler": "Haris Rauf", "label": "6", "kind": "six", "runs": 6, "legal": true, "desc": "Rauf to Kohli, SIX straight back over the bowler", "momentId": "the-straight-six" },
+        { "id": "18.6", "over": 19, "bowler": "Haris Rauf", "label": "6", "kind": "six", "runs": 6, "legal": true, "desc": "Rauf to Kohli, SIX over fine leg" },
+        { "id": "19.1", "over": 20, "bowler": "Mohammad Nawaz", "label": "W", "kind": "wicket", "runs": 0, "legal": true, "desc": "Nawaz to Hardik, OUT c Babar Azam", "momentId": "hardik-falls" },
+        { "id": "19.2", "over": 20, "bowler": "Mohammad Nawaz", "label": "1", "kind": "run", "runs": 1, "legal": true, "desc": "Nawaz to Karthik, 1 run" },
+        { "id": "19.3", "over": 20, "bowler": "Mohammad Nawaz", "label": "2", "kind": "run", "runs": 2, "legal": true, "desc": "Nawaz to Kohli, 2 runs" },
+        { "id": "19.4-nb", "over": 20, "bowler": "Mohammad Nawaz", "label": "6nb", "kind": "noball", "runs": 7, "legal": false, "desc": "Nawaz to Kohli, no-ball + SIX (7 runs)", "momentId": "no-ball-six" },
+        { "id": "19.4-wd", "over": 20, "bowler": "Mohammad Nawaz", "label": "wd", "kind": "wide", "runs": 1, "legal": false, "desc": "Nawaz, wide outside off (free hit carries over)" },
+        { "id": "19.4", "over": 20, "bowler": "Mohammad Nawaz", "label": "3b", "kind": "byes", "runs": 3, "legal": true, "desc": "Free hit: Kohli bowled, not out, 3 byes", "momentId": "free-hit-byes" },
+        { "id": "19.5", "over": 20, "bowler": "Mohammad Nawaz", "label": "W", "kind": "wicket", "runs": 0, "legal": true, "desc": "Nawaz to Karthik, OUT st Rizwan" },
+        { "id": "19.6-wd", "over": 20, "bowler": "Mohammad Nawaz", "label": "wd", "kind": "wide", "runs": 1, "legal": false, "desc": "Nawaz, wide down the leg side" },
+        { "id": "19.6", "over": 20, "bowler": "Mohammad Nawaz", "label": "1", "kind": "run", "runs": 1, "legal": true, "desc": "Nawaz to Ashwin, winning single", "momentId": "ashwin-finish" }
+      ],
+      "moments": [
+        {
+          "id": "the-straight-six",
+          "ball": "18.5",
+          "timelineId": "18.5",
+          "title": { "en": "The shot over Rauf's head", "hi": "Rauf ke sir ke upar se six" },
+          "bowler": "Haris Rauf",
+          "striker": { "name": "Virat Kohli", "before": { "runs": 62, "balls": 48 }, "after": { "runs": 68, "balls": 49 } },
+          "nonStriker": { "name": "Hardik Pandya", "score": { "runs": 40, "balls": 36 } },
+          "event": {
+            "tag": "SIX",
+            "kind": "six",
+            "summary": {
+              "en": "Haris Rauf to Virat Kohli: a length ball, hit straight back over the bowler's head for SIX.",
+              "hi": "Haris Rauf ki length ball, aur Kohli ne seedha bowler ke sir ke upar se SIX maar diya."
+            },
+            "impact": { "value": "+6", "label": { "en": "runs from one hit", "hi": "runs, ek hi shot mein" } }
+          },
+          "shot": { "result": "six", "angle": 0, "distance": 1.1, "label": "SIX!" },
+          "before": { "runs": 132, "wickets": 4, "balls": 112 },
+          "after": { "runs": 138, "wickets": 4, "balls": 113 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "A huge hit, explained", "hi": "Bada shot, aasaan bhasha mein" },
+              "headline": {
+                "en": "Kohli hit the ball over the bowler's head, out of the ground. Six runs.",
+                "hi": "Kohli ne ball bowler ke sir ke upar se ground ke bahar bhej di. Six runs."
+              },
+              "body": {
+                "en": "India needed 28 runs from just 8 balls. That's more than 3 runs every ball, which almost never happens. Fast bowler Haris Rauf bowled a good ball, but Kohli hit it straight back over his head. A ball that clears the rope without bouncing is worth 6, the most you can score with one hit.",
+                "hi": "India ko sirf 8 balls mein 28 runs chahiye the. Matlab har ball pe 3 se zyada runs, jo almost kabhi nahi hota. Fast bowler Haris Rauf ne achhi ball daali, lekin Kohli ne use seedha uske sir ke upar se maara. Ball bina tappa khaye rope ke paar jaaye toh 6 runs, ek shot mein sabse zyada."
+              },
+              "analogy": {
+                "en": "It's like scoring a late goal when your team is losing badly. You haven't won yet, but suddenly the game feels alive.",
+                "hi": "Jaise haar rahi team ka last minute goal. Abhi jeete nahi, par match achanak zinda lagne laga."
+              },
+              "watchNext": {
+                "en": "India still need 22 runs from 7 balls. One more big hit and this becomes a real contest.",
+                "hi": "Ab bhi 7 balls mein 22 chahiye. Ek aur bada shot, aur match poora khul jaayega."
+              },
+              "decoder": [
+                { "term": "Six", "meaning": { "en": "The ball clears the boundary rope without bouncing: 6 runs.", "hi": "Ball bina tappa khaye rope ke paar: 6 runs." } },
+                { "term": "18.5", "meaning": { "en": "Over 19, ball 5. Cricket counts finished overs first, then balls.", "hi": "19th over ki 5th ball. Pehle poore overs, phir balls gine jaate hain." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "Why the 'safe' ball failed", "hi": "'Safe' ball kyun fail hui" },
+              "headline": {
+                "en": "Pakistan's safe ball, a hard length, got hit for six anyway.",
+                "hi": "Pakistan ki 'safe' ball, hard length, phir bhi six ho gayi."
+              },
+              "body": {
+                "en": "At 28 off 8, Pakistan didn't need wickets. They just needed to stop boundaries. Rauf had been doing that with lengths: 3 runs off his first 4 balls of the over. Kohli stood tall and punched this one back past him with an almost straight bat, turning a dot-ball length into a scoring zone.",
+                "hi": "28 off 8 pe Pakistan ko wicket ki zaroorat nahi thi, bas boundary rokni thi. Rauf ye length se kar raha tha: over ki pehli 4 balls mein sirf 3 runs. Kohli ne seedha khade hokar almost straight bat se ball wapas uske upar se maari. Dot-ball wali length ab scoring zone ban gayi."
+              },
+              "side": { "en": "Pakistan's options for this ball", "hi": "Is ball ke liye Pakistan ke options" },
+              "options": [
+                {
+                  "label": { "en": "Hard length", "hi": "Hard length" },
+                  "detail": { "en": "Had worked all over: 3 runs from 4 balls. Rauf stuck with it.", "hi": "Poore over mein chal rahi thi: 4 balls, 3 runs. Rauf isi pe tika raha." },
+                  "played": true,
+                  "risk": 40,
+                  "reward": 55
+                },
+                {
+                  "label": { "en": "Yorker", "hi": "Yorker" },
+                  "detail": { "en": "Hardest ball to hit for six, but if it's a bit too full it becomes a full toss.", "hi": "Six maarna sabse mushkil, lekin thoda sa bhi chooka toh full toss." },
+                  "played": false,
+                  "risk": 62,
+                  "reward": 82
+                },
+                {
+                  "label": { "en": "Slower ball", "hi": "Slower ball" },
+                  "detail": { "en": "Takes the pace off, but a set batter can wait for it and swing.", "hi": "Pace kam karti hai, par set batter ruk ke maar sakta hai." },
+                  "played": false,
+                  "risk": 58,
+                  "reward": 45
+                }
+              ],
+              "nextMove": {
+                "en": "22 off 7, Kohli still on strike. Rauf can't afford the same length again, so expect fuller or wider.",
+                "hi": "22 off 7, strike pe ab bhi Kohli. Rauf wahi length dobara nahi daal sakta, ab fuller ya wider aayegi."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "3.50 → 3.14 a ball", "hi": "3.50 → 3.14 per ball" },
+              "headline": {
+                "en": "Runs needed per ball: 3.50 before this hit, 3.14 after.",
+                "hi": "Har ball pe chahiye the 3.50 runs. Is shot ke baad: 3.14."
+              },
+              "body": {
+                "en": "28 off 8 is a required rate of 21 an over. One six brings it down to 18.86. Kohli had started slowly, 12 off 21 balls by the 10th over. In the death overs he scored 39 off 14.",
+                "hi": "28 off 8 matlab 21 ka required rate. Ek six ne use 18.86 kar diya. Kohli ne dheere shuru kiya tha, 10 overs ke baad 12 off 21. Death overs mein 39 off 14."
+              },
+              "facts": [
+                { "value": "3", "label": { "en": "runs Rauf gave away from his first 4 balls of this over", "hi": "runs, Rauf ne is over ki pehli 4 balls mein diye" }, "source": "computed" },
+                { "value": "12 (21)", "label": { "en": "Kohli's score at the end of the 10th over: a slow start", "hi": "10th over ke end pe Kohli ka score: dheemi shuruaat" }, "source": "cricinfo-stats" },
+                { "value": "39 (14)", "label": { "en": "Kohli's runs (balls) in the death overs of this chase", "hi": "Death overs mein Kohli ke runs (balls)" }, "source": "cricinfo-stats" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "+12 for Kohli from one ball. As your captain: +24.",
+                "hi": "Ek ball, Kohli ke +12. Captain hai toh +24."
+              },
+              "body": {
+                "en": "A six is worth more than double its runs in fantasy: 6 points for the runs plus a 6-point Six Bonus.",
+                "hi": "Fantasy mein six apne runs se double se bhi zyada deta hai: 6 points runs ke, plus 6 ka Six Bonus."
+              },
+              "ledger": [
+                { "player": "Virat Kohli", "team": "IND", "ruleId": "bat.run", "count": 6 },
+                { "player": "Virat Kohli", "team": "IND", "ruleId": "bat.six_bonus", "count": 1 }
+              ],
+              "notes": [
+                { "en": "Kohli moves from 62 to 68, so no milestone is crossed. The 75 Run Bonus (+12) is 7 runs away.", "hi": "Kohli 62 se 68 pe, koi milestone cross nahi hua. 75 Run Bonus (+12) ab 7 runs door hai." }
+              ],
+              "caveats": [
+                { "kind": "pending", "text": { "en": "Haris Rauf's economy-rate points only settle once the innings ends.", "hi": "Haris Rauf ke economy-rate points innings khatam hone pe hi settle honge." } }
+              ]
+            }
+          }
+        },
+        {
+          "id": "hardik-falls",
+          "ball": "19.1",
+          "timelineId": "19.1",
+          "title": { "en": "Hardik falls first ball", "hi": "Pehli hi ball pe Hardik out" },
+          "bowler": "Mohammad Nawaz",
+          "striker": { "name": "Hardik Pandya", "before": { "runs": 40, "balls": 36 }, "after": { "runs": 40, "balls": 37 }, "out": true },
+          "nonStriker": { "name": "Virat Kohli", "score": { "runs": 74, "balls": 50 } },
+          "event": {
+            "tag": "WICKET",
+            "kind": "wicket",
+            "summary": {
+              "en": "Mohammad Nawaz to Hardik Pandya: a flat ball into the pads, the slog goes off the edge and Babar Azam takes the catch at cover point. OUT for 40 (37).",
+              "hi": "Nawaz ki flat ball pads pe, Hardik ka slog edge laga aur cover point pe Babar Azam ne catch pakad liya. OUT, 40 (37)."
+            },
+            "impact": { "value": "OUT", "label": { "en": "Hardik caught for 40", "hi": "Hardik 40 pe catch out" } }
+          },
+          "shot": { "result": "caught", "angle": 68, "distance": 0.42, "label": "CAUGHT!" },
+          "before": { "runs": 144, "wickets": 4, "balls": 114 },
+          "after": { "runs": 144, "wickets": 5, "balls": 115 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "Why this hurts India", "hi": "India ko ye kyun chubha" },
+              "headline": {
+                "en": "Hardik Pandya is out, caught. India lose one of their big hitters.",
+                "hi": "Hardik Pandya out, catch ho gaye. India ka ek bada hitter gaya."
+              },
+              "body": {
+                "en": "Hardik swung hard to hit the ball far, but it came off the edge of his bat and went up in the air. Pakistan's captain Babar Azam caught it before it touched the ground. India still need 16 runs, now with only 5 balls left. A new batter has to walk in.",
+                "hi": "Hardik ne door maarne ke liye zor se bat ghumaya, par ball bat ke edge se lagkar hawa mein chali gayi. Pakistan ke captain Babar Azam ne zameen chhoone se pehle catch kar liya. India ko ab bhi 16 runs chahiye, aur sirf 5 balls bachi hain. Naya batter aayega."
+              },
+              "analogy": {
+                "en": "It's like losing your best striker with five minutes left. The target is the same, but you have fewer weapons to reach it.",
+                "hi": "Jaise last paanch minute mein aapka best striker bahar ho jaaye. Target wahi hai, par hathiyaar kam ho gaye."
+              },
+              "watchNext": {
+                "en": "The new batter, Dinesh Karthik, faces the next ball, not Kohli.",
+                "hi": "Agli ball naya batter Dinesh Karthik khelega, Kohli nahi."
+              },
+              "decoder": [
+                { "term": "Caught", "meaning": { "en": "A fielder catches the ball before it bounces, so the batter is out.", "hi": "Ball zameen pe girne se pehle fielder ne pakdi, toh batter out." } },
+                { "term": "Edge", "meaning": { "en": "The ball hits the side of the bat instead of the middle.", "hi": "Ball bat ke beech ki jagah kinare pe lagi." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "Spin for the last over paid off", "hi": "Last over mein spin ka daav chala" },
+              "headline": {
+                "en": "Pakistan's gamble on spin for the last over pays off with the very first ball.",
+                "hi": "Last over mein spinner ka daav: pehli hi ball pe kaam kar gaya."
+              },
+              "body": {
+                "en": "Pakistan used their main fast bowlers earlier to hunt a wicket and saved left-arm spinner Mohammad Nawaz for the 20th over. Nawaz fired it in flat at the pads, Hardik lost his shape trying to slog, and the edge went to Babar. Under the T20I rules in force from October 2022, the new batter faces the next ball even though the batters crossed, so Kohli is off strike.",
+                "hi": "Pakistan ne wicket ke liye apne main fast bowlers pehle hi use kar liye aur left-arm spinner Mohammad Nawaz ko 20th over ke liye bachaya. Nawaz ne flat ball pads pe daali, slog karte hue Hardik ka shape bigda, aur edge seedha Babar ke paas. October 2022 se lage T20I rules mein batters cross karein tab bhi agli ball naya batter khelta hai, toh Kohli strike se bahar."
+              },
+              "side": { "en": "India's options for this ball", "hi": "Is ball ke liye India ke options" },
+              "options": [
+                {
+                  "label": { "en": "Swing hard", "hi": "Zor se ghumao" },
+                  "detail": { "en": "16 off 6 needs boundaries, but a flat ball at the pads is hard to lift.", "hi": "16 off 6 ke liye boundary chahiye, par pads pe flat ball uthana mushkil." },
+                  "played": true,
+                  "risk": 75,
+                  "reward": 78
+                },
+                {
+                  "label": { "en": "Single to Kohli", "hi": "Single, strike Kohli ko" },
+                  "detail": { "en": "Puts the set batter (74 off 50) on strike, but uses up a ball.", "hi": "Set batter (74 off 50) strike pe aata, par ek ball kharch hoti." },
+                  "played": false,
+                  "risk": 20,
+                  "reward": 48
+                },
+                {
+                  "label": { "en": "Wait for width", "hi": "Width ka intezaar" },
+                  "detail": { "en": "Nawaz is bowling flat and quick. Waiting could mean dot balls India can't afford.", "hi": "Nawaz flat aur tez daal raha hai. Intezaar matlab dot balls, jo India afford nahi kar sakta." },
+                  "played": false,
+                  "risk": 52,
+                  "reward": 32
+                }
+              ],
+              "nextMove": {
+                "en": "Pakistan want Karthik facing as many balls as possible and the ball kept away from Kohli's hitting zone.",
+                "hi": "Pakistan chahega Karthik zyada se zyada balls khele aur ball Kohli ke hitting zone se door rahe."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "113-run stand ends", "hi": "113 ki partnership khatam" },
+              "headline": {
+                "en": "A 113-run partnership ends. It's an India record for the 5th wicket or lower.",
+                "hi": "113 runs ki partnership khatam. 5th ya usse neeche ke wicket ke liye ye India ka record hai."
+              },
+              "body": {
+                "en": "Kohli and Hardik came together at 31/4 in the 7th over and added 113. With Hardik gone, India need 3.20 runs a ball from the last 5, with a new batter on strike.",
+                "hi": "Kohli aur Hardik 7th over mein 31/4 pe saath aaye aur 113 jode. Hardik ke jaane ke baad India ko last 5 balls mein 3.20 runs per ball chahiye, aur strike pe naya batter hai."
+              },
+              "facts": [
+                { "value": "113", "label": { "en": "Kohli and Hardik's 5th-wicket stand, India's highest for the 5th wicket or lower in men's T20Is", "hi": "Kohli aur Hardik ki 5th wicket partnership, men's T20Is mein 5th ya neeche ke wicket ke liye India ki sabse badi" }, "source": "cricinfo-stats" },
+                { "value": "102*", "label": { "en": "The previous Indian record: Dhoni and Yuvraj vs Australia, 2013", "hi": "Pichhla Indian record: Dhoni aur Yuvraj vs Australia, 2013" }, "source": "cricinfo-stats" },
+                { "value": "40 (37)", "label": { "en": "Hardik's innings: 1 four, 2 sixes", "hi": "Hardik ki innings: 1 four, 2 sixes" }, "source": "cricinfo-scorecard" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "Nawaz +30, Babar +8. A 38-point swing to Pakistan picks.",
+                "hi": "Nawaz +30, Babar +8. Pakistan players ko 38 points ka fayda."
+              },
+              "body": {
+                "en": "A wicket is the biggest single-ball score in T20 fantasy. The bowler and the catcher both get points. Hardik's points stop here but don't go down: he's out for 40, not 0.",
+                "hi": "T20 fantasy mein ek ball pe sabse bada score wicket hi hai. Bowler aur catcher dono ko points milte hain. Hardik ke points yahin ruke, par kate nahi: woh 40 pe out hue, 0 pe nahi."
+              },
+              "ledger": [
+                { "player": "Mohammad Nawaz", "team": "PAK", "ruleId": "bowl.wicket", "count": 1 },
+                { "player": "Babar Azam", "team": "PAK", "ruleId": "field.catch", "count": 1 }
+              ],
+              "notes": [
+                { "en": "Caught, not LBW or bowled, so there's no +8 bonus. This is Nawaz's 1st wicket. Haul bonuses start at 3.", "hi": "Catch out hai, LBW ya bowled nahi, isliye +8 bonus nahi. Nawaz ka ye 1st wicket hai. Haul bonus 3 wickets se shuru hota hai." },
+                { "en": "Hardik leaves on 40, so no duck penalty.", "hi": "Hardik 40 pe gaye, toh duck penalty nahi." }
+              ],
+              "caveats": [
+                { "kind": "unavailable", "text": { "en": "Dot Ball (+1) for Nawaz: the official page doesn't say whether a wicket delivery counts as a dot ball, so it isn't added.", "hi": "Nawaz ka Dot Ball (+1): official page pe nahi likha ki wicket wali ball dot ball ginti hai ya nahi, isliye nahi joda." } }
+              ]
+            }
+          }
+        },
+        {
+          "id": "no-ball-six",
+          "ball": "19.4 nb",
+          "timelineId": "19.4-nb",
+          "title": { "en": "Six, no-ball, free hit", "hi": "Six, no-ball, free hit: teeno ek saath" },
+          "bowler": "Mohammad Nawaz",
+          "striker": { "name": "Virat Kohli", "before": { "runs": 76, "balls": 51 }, "after": { "runs": 82, "balls": 52 } },
+          "nonStriker": { "name": "Dinesh Karthik", "score": { "runs": 1, "balls": 1 } },
+          "event": {
+            "tag": "NO-BALL · SIX",
+            "kind": "noball",
+            "summary": {
+              "en": "Nawaz to Kohli: a high full toss, called a NO-BALL, swatted over the leg side for SIX. 7 runs, and the next ball is a free hit.",
+              "hi": "Nawaz ka oonchi full toss, NO-BALL diya gaya, aur Kohli ne leg side pe SIX maara. 7 runs, aur agli ball free hit."
+            },
+            "impact": { "value": "+7", "label": { "en": "runs from one delivery", "hi": "runs, ek hi delivery pe" } }
+          },
+          "shot": { "result": "six", "angle": -95, "distance": 1.1, "fullToss": true, "noBall": true, "label": "SIX + NO-BALL" },
+          "before": { "runs": 147, "wickets": 5, "balls": 117 },
+          "after": { "runs": 154, "wickets": 5, "balls": 117 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "7 runs from one ball?", "hi": "Ek ball pe 7 runs?" },
+              "headline": {
+                "en": "Six runs, plus one extra run, plus a free hit. All from one ball.",
+                "hi": "Six, upar se ek extra run, aur free hit. Sab ek hi ball pe."
+              },
+              "body": {
+                "en": "Nawaz bowled a full toss, a ball that doesn't bounce, and it reached Kohli too high. That's against the rules, so the umpire called a no-ball. India get 1 extra run and the ball doesn't count as one of the 3 left. The next ball is a free hit: Kohli can't be out bowled or caught on it.",
+                "hi": "Nawaz ne full toss daali, yaani bina tappa khaye ball, aur woh Kohli tak bahut oonchi pahunchi. Ye rules ke khilaaf hai, isliye umpire ne no-ball diya. India ko 1 extra run, aur ye ball 3 bachi balls mein gini nahi jaayegi. Agli ball free hit hai: us pe Kohli bowled ya catch out nahi ho sakte."
+              },
+              "analogy": {
+                "en": "It's like a penalty in football that also gives you a free retake. The bowler's mistake costs double.",
+                "hi": "Jaise football mein penalty mile aur saath mein free retake bhi. Bowler ki galti ka double nuksaan."
+              },
+              "watchNext": {
+                "en": "6 needed from 3 balls, and the next one is a free hit.",
+                "hi": "3 balls mein 6 chahiye, aur agli ball free hit hai."
+              },
+              "decoder": [
+                { "term": "No-ball", "meaning": { "en": "An illegal delivery: +1 run to the batting team, and it doesn't count as a ball.", "hi": "Galat ball: batting team ko +1 run, aur ball count nahi hoti." } },
+                { "term": "Free hit", "meaning": { "en": "The ball after a no-ball. The batter can't be out bowled, caught, LBW or stumped.", "hi": "No-ball ke baad wali ball. Batter bowled, caught, LBW ya stumped out nahi ho sakta." } },
+                { "term": "Full toss", "meaning": { "en": "A ball that reaches the batter without bouncing.", "hi": "Aisi ball jo bina tappa khaye batter tak aaye." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "One error, two gifts", "hi": "Ek galti, do tohfe" },
+              "headline": {
+                "en": "Under pressure, Nawaz missed his length and gave Kohli two gifts.",
+                "hi": "Pressure mein Nawaz ki length chooki, aur Kohli ko do tohfe mil gaye."
+              },
+              "body": {
+                "en": "13 off 3 meant India needed boundaries. Nawaz went full to block the big swing, but this one arrived as a high full toss and was called a no-ball. India got 7 runs, kept all 3 balls, and earned a free hit, on which Kohli can swing with no fear of being bowled or caught.",
+                "hi": "13 off 3 matlab India ko boundaries chahiye thi. Nawaz ne bade swing ko rokne ke liye full daali, par ye oonchi full toss ban gayi aur no-ball de diya gaya. India ko 7 runs, teeno balls bachi, aur free hit bhi, jis pe Kohli bina bowled ya catch ke darr ke bat ghuma sakte hain."
+              },
+              "side": { "en": "Pakistan's options for the free hit", "hi": "Free hit ke liye Pakistan ke options" },
+              "options": [
+                {
+                  "label": { "en": "Wide yorker", "hi": "Wide yorker" },
+                  "detail": { "en": "Hardest to hit for six, but stray past the tramline and it's a wide. Nawaz tried it next and it was called wide.", "hi": "Six maarna sabse mushkil, par tramline ke bahar gayi toh wide. Nawaz ne agli ball yahi try ki, aur wide ho gayi." },
+                  "played": true,
+                  "risk": 55,
+                  "reward": 72
+                },
+                {
+                  "label": { "en": "Full at the stumps", "hi": "Stumps pe full" },
+                  "detail": { "en": "Cuts the angles, but on a free hit, hitting the stumps doesn't get him out.", "hi": "Angles band karti hai, par free hit pe stumps udne se bhi out nahi." },
+                  "played": false,
+                  "risk": 68,
+                  "reward": 40
+                },
+                {
+                  "label": { "en": "Slower and wide", "hi": "Slow aur wide" },
+                  "detail": { "en": "Makes Kohli supply all the power, but easy to drop short.", "hi": "Saari power Kohli ko khud lagani padegi, par short girne ka risk." },
+                  "played": false,
+                  "risk": 60,
+                  "reward": 52
+                }
+              ],
+              "nextMove": {
+                "en": "With a free hit to come, Pakistan's only goal is a dot ball. Even a bowled ball doesn't count.",
+                "hi": "Free hit aane wali hai. Pakistan ka bas ek goal: dot ball. Bowled bhi kaam nahi aayega."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "Req. rate 26 → 12", "hi": "Req. rate 26 → 12" },
+              "headline": {
+                "en": "The required rate halves in one delivery: 26.00 → 12.00.",
+                "hi": "Ek delivery mein required rate aadha: 26.00 → 12.00."
+              },
+              "body": {
+                "en": "13 off 3 means 4.33 runs a ball. After 7 runs from a delivery that didn't count, India need 6 from the same 3 balls, which is 2 a ball, with a free hit next.",
+                "hi": "13 off 3 matlab har ball 4.33 runs. Ek aisi delivery pe 7 runs aaye jo gini hi nahi gayi. Ab wahi 3 balls mein 6 chahiye, yaani 2 per ball, aur agli free hit hai."
+              },
+              "facts": [
+                { "value": "7", "label": { "en": "runs from one delivery, 54% of the 13 India needed", "hi": "runs ek delivery se, India ko chahiye 13 ka 54%" }, "source": "computed" },
+                { "value": "20", "label": { "en": "Kohli's runs off his last 4 balls faced: 6, 6, 2, 6", "hi": "Kohli ke runs, last 4 balls pe: 6, 6, 2, 6" }, "source": "computed" },
+                { "value": "1", "label": { "en": "no-ball in the whole match, and this was it", "hi": "poore match mein sirf ek no-ball, yahi wali" }, "source": "cricinfo-scorecard" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "+12 for Kohli. The extra no-ball run is worth 0 to everyone.",
+                "hi": "Kohli ke +12. No-ball ka extra run kisi ko 0 points deta hai."
+              },
+              "body": {
+                "en": "The six scores like any other six. The no-ball run goes to India's total as an extra. It isn't the batter's run, so no fantasy team gains from it.",
+                "hi": "Ye six baaki sixes jaisa hi score hota hai. No-ball ka run India ke total mein extra ki tarah judta hai. Wo batter ka run nahi, toh kisi fantasy team ko fayda nahi."
+              },
+              "ledger": [
+                { "player": "Virat Kohli", "team": "IND", "ruleId": "bat.run", "count": 6 },
+                { "player": "Virat Kohli", "team": "IND", "ruleId": "bat.six_bonus", "count": 1 }
+              ],
+              "notes": [
+                { "en": "On the previous ball Kohli went from 74 to 76, which unlocked the 75 Run Bonus (+12). That's context only and isn't counted in this ball's total.", "hi": "Pichhli ball pe Kohli 74 se 76 pahunche aur 75 Run Bonus (+12) unlock hua. Ye sirf context hai, is ball ke total mein nahi juda." },
+                { "en": "Dream11 has no rule that takes points away for a no-ball. Its cost shows up later in the bowler's economy rate.", "hi": "Dream11 mein no-ball ke liye seedhe points katne ka koi rule nahi. Iska asar baad mein bowler ke economy rate mein dikhega." }
+              ],
+              "caveats": []
+            }
+          }
+        },
+        {
+          "id": "free-hit-byes",
+          "ball": "19.4",
+          "timelineId": "19.4",
+          "title": { "en": "Bowled… but not out", "hi": "Bowled… phir bhi not out" },
+          "bowler": "Mohammad Nawaz",
+          "striker": { "name": "Virat Kohli", "before": { "runs": 82, "balls": 52 }, "after": { "runs": 82, "balls": 53 } },
+          "nonStriker": { "name": "Dinesh Karthik", "score": { "runs": 1, "balls": 1 } },
+          "event": {
+            "tag": "FREE HIT · 3 BYES",
+            "kind": "byes",
+            "summary": {
+              "en": "Free hit, after a wide: Nawaz bowls Kohli, who is not out on a free hit, and the ball runs away to third man for 3 BYES.",
+              "hi": "Free hit (wide ke baad): Nawaz ne Kohli ko bowled kiya. Free hit pe out nahi hota, aur ball third man ki taraf gayi: 3 BYES."
+            },
+            "impact": { "value": "+3", "label": { "en": "byes, off a ball that hit the stumps", "hi": "byes, stumps pe lagi ball se" } }
+          },
+          "shot": { "result": "freehit-byes", "angle": 150, "distance": 0.62, "label": "NOT OUT · 3 BYES" },
+          "before": { "runs": 155, "wickets": 5, "balls": 117 },
+          "after": { "runs": 158, "wickets": 5, "balls": 118 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "Out? No! And 3 runs?", "hi": "Out? Nahi! Aur 3 runs?" },
+              "headline": {
+                "en": "The ball hit Kohli's stumps, but it was a free hit, so he's not out. And India ran 3!",
+                "hi": "Ball Kohli ke stumps pe lagi, par free hit thi, toh not out. Aur India ne 3 runs bhaag liye!"
+              },
+              "body": {
+                "en": "Normally, if the ball hits the stumps, the batter is out. On a free hit you can't be out that way, so Kohli stayed in. The ball bounced away behind the wicket, and Kohli and Karthik ran three. These runs are called byes. They count for India even though the bat never touched the ball.",
+                "hi": "Normally ball stumps pe lage toh batter out. Par free hit pe aise out nahi hote, toh Kohli crease pe rahe. Ball wicket ke peeche nikal gayi aur Kohli-Karthik ne teen runs bhaag liye. Inhe byes kehte hain. Bat ball ko chhua bhi nahi, phir bhi runs India ke."
+              },
+              "analogy": {
+                "en": "Like a 'get out of jail free' card that also moves you three squares forward.",
+                "hi": "Jaise 'jail se free' card mile aur saath mein teen ghar aage bhi badh jao."
+              },
+              "watchNext": {
+                "en": "2 needed from 2 balls. Karthik is on strike.",
+                "hi": "2 balls mein 2 chahiye. Strike pe Karthik."
+              },
+              "decoder": [
+                { "term": "Bowled", "meaning": { "en": "The ball hits the stumps. Usually out, but not on a free hit.", "hi": "Ball stumps pe lagi. Aam taur pe out, par free hit pe nahi." } },
+                { "term": "Byes", "meaning": { "en": "Runs taken when the ball misses the bat and the keeper. They go to the team, not the batter.", "hi": "Ball bat aur keeper dono ko miss kare aur runs bhaage jaayein. Team ke runs, batter ke nahi." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "Knowing the law won it", "hi": "Rule ki samajh jeet gayi" },
+              "headline": {
+                "en": "Kohli used the free-hit law better than Pakistan defended it.",
+                "hi": "Free-hit rule ka fayda Kohli ne uthaya, Pakistan bacha nahi paaya."
+              },
+              "body": {
+                "en": "Nawaz needed a dot ball. He bowled full at off stump and Kohli missed his attempted sweep, but on a free hit being bowled doesn't count. Kohli knew that and was already running. The ball rolled between the keeper and short third man, and nobody could stop it quickly.",
+                "hi": "Nawaz ko dot ball chahiye thi. Usne off stump pe full daali aur Kohli ka sweep miss hua, par free hit pe bowled ginti nahi. Kohli ye jaante the aur pehle se bhaagne lage. Ball keeper aur short third man ke beech se nikal gayi aur use jaldi koi rok nahi paaya."
+              },
+              "side": { "en": "India's options on the free hit", "hi": "Free hit pe India ke options" },
+              "options": [
+                {
+                  "label": { "en": "Go for a big shot", "hi": "Bada shot khelo" },
+                  "detail": { "en": "Could end it in one hit. Kohli tried a sweep and missed, which on a normal ball is a dot.", "hi": "Ek shot mein khatam ho sakta tha. Kohli ne sweep try kiya aur miss hua. Normal ball pe ye dot hota." },
+                  "played": true,
+                  "risk": 25,
+                  "reward": 85
+                },
+                {
+                  "label": { "en": "Run on anything", "hi": "Kuch bhi ho, bhaago" },
+                  "detail": { "en": "On a free hit, a ball that hits the stumps is still live. Kohli did this after missing.", "hi": "Free hit pe stumps pe lagi ball bhi live hai. Miss ke baad Kohli ne yahi kiya." },
+                  "played": true,
+                  "risk": 15,
+                  "reward": 60
+                },
+                {
+                  "label": { "en": "Push a single", "hi": "Single le lo" },
+                  "detail": { "en": "Safe, but leaves 4 off 2 for the other batter.", "hi": "Safe hai, par doosre batter ke liye 4 off 2 chhod deta hai." },
+                  "played": false,
+                  "risk": 10,
+                  "reward": 28
+                }
+              ],
+              "nextMove": {
+                "en": "2 off 2 with Karthik on strike. Pakistan will bowl tight and attack the stumps.",
+                "hi": "2 off 2, strike pe Karthik. Pakistan tight bowling karke stumps pe attack karega."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "3 of the last 5 runs: unhit", "hi": "Last 5 mein se 3 runs: bina bat ke" },
+              "headline": {
+                "en": "3 of the last 5 runs India needed came from a ball nobody hit.",
+                "hi": "India ko chahiye last 5 runs mein se 3 aise aaye jahan bat laga hi nahi."
+              },
+              "body": {
+                "en": "Before this ball: 5 off 3, or 10.00 an over. After it: 2 off 2, or 6.00 an over. Byes add to India's total, not to Kohli's. His score stays at 82 while his balls faced go up to 53.",
+                "hi": "Is ball se pehle: 5 off 3 (10.00 per over). Baad mein: 2 off 2 (6.00 per over). Byes India ke total mein judte hain, Kohli ke score mein nahi. Unka score 82 pe hi raha, balls 53 ho gayi."
+              },
+              "facts": [
+                { "value": "3", "label": { "en": "byes in India's whole innings, all from this ball", "hi": "byes India ki poori innings mein, saare isi ball pe" }, "source": "cricinfo-scorecard" },
+                { "value": "6 of 16", "label": { "en": "runs in the final over that were extras: 1 no-ball, 2 wides, 3 byes", "hi": "last over ke runs jo extras the: 1 no-ball, 2 wides, 3 byes" }, "source": "computed" },
+                { "value": "11", "label": { "en": "extras in India's chase (3 b, 1 lb, 6 wd, 1 nb)", "hi": "India ke chase mein extras (3 b, 1 lb, 6 wd, 1 nb)" }, "source": "cricinfo-scorecard" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "The ball that swung the match moved fantasy scores by exactly 0.",
+                "hi": "Jis ball ne match palta, usne fantasy score ek point bhi nahi hilaya."
+              },
+              "body": {
+                "en": "A huge real-world moment that's invisible in fantasy. The runs are extras, and the dismissal doesn't count.",
+                "hi": "Asli match ka bada moment, par fantasy mein dikhta hi nahi. Runs extras hain, aur wicket ginti nahi."
+              },
+              "ledger": [],
+              "notes": [
+                { "en": "Byes are extras, so Kohli earns no Run points for these 3.", "hi": "Byes extras hain, toh in 3 runs ke Kohli ko Run points nahi." },
+                { "en": "Being bowled on a free hit isn't a dismissal: no Wicket (+30) and no Bowled bonus (+8) for Nawaz.", "hi": "Free hit pe bowled, dismissal nahi hai: Nawaz ko na Wicket (+30), na Bowled bonus (+8)." }
+              ],
+              "caveats": [
+                { "kind": "unavailable", "text": { "en": "Dot Ball (+1) for Nawaz: nothing came off the bat, but the official page doesn't define how byes affect the Dot Ball rule, so it isn't added.", "hi": "Nawaz ka Dot Ball (+1): bat se run nahi aaya, par official page pe byes aur dot ball ka rule clear nahi, isliye nahi joda." } }
+              ]
+            }
+          }
+        },
+        {
+          "id": "ashwin-finish",
+          "ball": "19.6",
+          "timelineId": "19.6",
+          "title": { "en": "Ashwin's last-ball finish", "hi": "Ashwin ka last-ball finish" },
+          "bowler": "Mohammad Nawaz",
+          "striker": { "name": "R Ashwin", "before": { "runs": 0, "balls": 0 }, "after": { "runs": 1, "balls": 1 } },
+          "nonStriker": { "name": "Virat Kohli", "score": { "runs": 82, "balls": 53 } },
+          "event": {
+            "tag": "WINNING RUN",
+            "kind": "win",
+            "summary": {
+              "en": "After Karthik was stumped and Nawaz bowled a leg-side wide: Nawaz to R Ashwin, lifted over mid-off for the winning single.",
+              "hi": "Karthik stumped hue, phir Nawaz ka leg-side wide. Nawaz to Ashwin: mid-off ke upar se winning single."
+            },
+            "impact": { "value": "WIN", "label": { "en": "off the very last ball", "hi": "bilkul last ball pe" } }
+          },
+          "shot": { "result": "runs", "angle": 22, "distance": 0.58, "label": "WIN!" },
+          "before": { "runs": 159, "wickets": 6, "balls": 119 },
+          "after": { "runs": 160, "wickets": 6, "balls": 120 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "How India won", "hi": "India kaise jeeta" },
+              "headline": {
+                "en": "Ashwin lifts it over the fielders. India win off the very last ball!",
+                "hi": "Ashwin ne ball fielders ke upar se uthaayi. India last ball pe jeet gaya!"
+              },
+              "body": {
+                "en": "Karthik was out stumped, then Nawaz bowled a wide, so India needed just 1 run off the last ball. Pakistan brought fielders in close to stop a quick single. Ashwin calmly lifted the ball over them and ran. India reached 160, one more than Pakistan's 159.",
+                "hi": "Karthik stumped hue, phir Nawaz ne wide daali. Ab last ball pe sirf 1 run chahiye tha. Pakistan ne single rokne ke liye fielders paas bula liye. Ashwin ne aaram se ball unke upar se uthaayi aur bhaag liye. India 160 pe pahuncha, Pakistan ke 159 se ek zyada."
+              },
+              "analogy": {
+                "en": "Like taking the last kick in a penalty shootout and calmly picking your corner.",
+                "hi": "Jaise penalty shootout ki last kick, aur aapne aaram se corner chun liya."
+              },
+              "watchNext": {
+                "en": "Match over. Kohli finishes on 82 not out off 53 balls.",
+                "hi": "Match khatam. Kohli 53 balls pe 82 not out."
+              },
+              "decoder": [
+                { "term": "Wide", "meaning": { "en": "A ball too far from the batter to hit: +1 run, and it's bowled again.", "hi": "Batter ki pahunch se bahut door ball: +1 run, aur dobara daali jaati hai." } },
+                { "term": "Stumped", "meaning": { "en": "The batter steps out, misses, and the keeper breaks the stumps.", "hi": "Batter crease se bahar, ball miss, aur keeper ne stumps uda diye." } },
+                { "term": "Won by 4 wickets", "meaning": { "en": "India reached the target having lost 6 of their 10 wickets.", "hi": "India ne target 10 mein se sirf 6 wickets kho kar pura kiya." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "The leave that won it", "hi": "Jo ball chhodi, wahi jeet" },
+              "headline": {
+                "en": "Ashwin's best decision came a ball earlier, when he left the wide alone.",
+                "hi": "Ashwin ka sabse sahi faisla ek ball pehle tha: wide ko chhod dena."
+              },
+              "body": {
+                "en": "Nawaz fired the previous ball down the leg side, expecting Ashwin to make room. Ashwin didn't chase it. It was called a wide, which tied the scores and gave India another go at the last ball. Then, with the field up to stop the single, he made a little room and lifted it over mid-off.",
+                "hi": "Pichhli ball Nawaz ne leg side ke bahar phenki, socha Ashwin room banayenge. Ashwin ne use chheda hi nahi. Wide mila, score barabar hua, aur last ball ka ek aur mauka. Phir single rokne ke liye field andar thi. Ashwin ne thoda room banaya aur mid-off ke upar se uthaa diya."
+              },
+              "side": { "en": "India's options for the last ball", "hi": "Last ball ke liye India ke options" },
+              "options": [
+                {
+                  "label": { "en": "Lift over the infield", "hi": "Infield ke upar se" },
+                  "detail": { "en": "Field is up, so the space is behind it. This is what Ashwin did.", "hi": "Field andar hai, jagah uske peeche hai. Ashwin ne yahi kiya." },
+                  "played": true,
+                  "risk": 42,
+                  "reward": 90
+                },
+                {
+                  "label": { "en": "Hit hard along the ground", "hi": "Zameen pe zor se" },
+                  "detail": { "en": "Can beat a close field, but can also go straight to a fielder.", "hi": "Paas ki field ko beat kar sakta hai, par seedha fielder ke haath bhi ja sakta hai." },
+                  "played": false,
+                  "risk": 50,
+                  "reward": 68
+                },
+                {
+                  "label": { "en": "Any contact, then run", "hi": "Bas bat lagao, bhaago" },
+                  "detail": { "en": "Even an edge might do it, but close fielders can run you out.", "hi": "Edge bhi kaam kar sakta hai, par paas ke fielders run-out kar sakte hain." },
+                  "played": false,
+                  "risk": 66,
+                  "reward": 55
+                }
+              ],
+              "nextMove": {
+                "en": "Game over: India 160/6 beat Pakistan's 159/8.",
+                "hi": "Game over: India 160/6, Pakistan 159/8 ko haraya."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "Won from 31/4: a first", "hi": "31/4 se jeet: pehli baar" },
+              "headline": {
+                "en": "No team had won a men's T20 World Cup chase from 31/4. India just did.",
+                "hi": "Men's T20 World Cup mein 31/4 se chase kisi ne nahi jeeta tha. India ne kar dikhaya."
+              },
+              "body": {
+                "en": "1 off 1, and it's done. India finish on 160/6. Kohli is 82 not out off 53 balls, a strike rate of 154.72.",
+                "hi": "1 off 1, aur kaam khatam. India 160/6. Kohli 53 balls pe 82 not out, strike rate 154.72."
+              },
+              "facts": [
+                { "value": "31/4", "label": { "en": "lowest score at the 4th wicket from which any team has won a chase at a men's T20 World Cup", "hi": "men's T20 World Cup mein 4th wicket pe sabse kam score jahan se koi team chase jeeti" }, "source": "cricinfo-stats" },
+                { "value": "48", "label": { "en": "runs India chased in the last 3 overs, the joint-most at a men's T20 World Cup", "hi": "runs India ne last 3 overs mein chase kiye, men's T20 World Cup mein joint-most" }, "source": "cricinfo-stats" },
+                { "value": "3794", "label": { "en": "Kohli's T20I runs after this game, the most by anyone at that point", "hi": "is match ke baad Kohli ke T20I runs, us waqt sabse zyada" }, "source": "cricinfo-stats" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "Ashwin +1 for the winning run. Then the innings settles: Kohli +4, Nawaz −2.",
+                "hi": "Winning run ke Ashwin ko +1. Phir innings settle: Kohli +4, Nawaz −2."
+              },
+              "body": {
+                "en": "The winning run is worth just 1 point. The bigger change: the innings is over, so strike-rate and economy points settle from each player's final figures.",
+                "hi": "Winning run sirf 1 point ka hai. Bada badlaav: innings khatam, toh strike rate aur economy ke points final figures se settle hote hain."
+              },
+              "ledger": [
+                { "player": "R Ashwin", "team": "IND", "ruleId": "bat.run", "count": 1 }
+              ],
+              "settlement": [
+                { "player": "Virat Kohli", "team": "IND", "kind": "strikeRate", "runs": 82, "balls": 53 },
+                { "player": "Hardik Pandya", "team": "IND", "kind": "strikeRate", "runs": 40, "balls": 37 },
+                { "player": "R Ashwin", "team": "IND", "kind": "strikeRate", "runs": 1, "balls": 1 },
+                { "player": "Mohammad Nawaz", "team": "PAK", "kind": "economy", "runs": 42, "balls": 24 },
+                { "player": "Haris Rauf", "team": "PAK", "kind": "economy", "runs": 36, "balls": 24 }
+              ],
+              "notes": [
+                { "en": "Strike-rate and economy points only exist once an innings ends, so they appear here and nowhere earlier.", "hi": "Strike rate aur economy ke points innings khatam hone pe hi bante hain, isliye sirf yahan dikh rahe hain." }
+              ],
+              "caveats": [
+                { "kind": "unavailable", "text": { "en": "Full-match fantasy totals aren't shown. Fourth Man only scores these moments plus the innings-end rates.", "hi": "Poore match ke fantasy totals nahi dikhaye. Fourth Man sirf in moments aur innings-end rates ko score karta hai." } }
+              ]
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "match": {
+        "id": "ban-v-ind-2018",
+        "shortTitle": "BAN v IND",
+        "demoLabel": "Demo replay · Completed match · Not live",
+        "dataNote": { "kind": "verified", "label": "Ball-by-ball verified · ESPNcricinfo" },
+        "competition": "Nidahas Trophy 2018",
+        "stage": "Final",
+        "venue": "R Premadasa Stadium, Colombo",
+        "venueShort": "Colombo",
+        "dateLabel": "18 Mar 2018",
+        "chasing": { "code": "IND", "name": "India", "color": "#2f6fe0" },
+        "defending": { "code": "BAN", "name": "Bangladesh", "color": "#0e7a52" },
+        "firstInnings": { "code": "BAN", "runs": 166, "wickets": 8, "overs": "20" },
+        "target": 167,
+        "totalBalls": 120,
+        "result": "India won by 4 wickets (off the last ball)",
+        "resultBanner": { "en": "India win by 4 wickets · last ball", "hi": "India 4 wickets se jeeta · last ball" },
+        "hook": {
+          "en": "34 needed off 12 when Dinesh Karthik walked in. He faced 8 balls.",
+          "hi": "Dinesh Karthik aaye tab 12 balls mein 34 chahiye the. Unhone 8 balls kheli."
+        },
+        "sources": {
+          "cricinfo-bbb": {
+            "label": "ESPNcricinfo ball-by-ball",
+            "url": "https://www.espncricinfo.com/series/nidahas-t20-series-2017-18-1133811/bangladesh-vs-india-final-1133823/ball-by-ball-commentary"
+          },
+          "cricinfo-scorecard": {
+            "label": "ESPNcricinfo scorecard",
+            "url": "https://www.espncricinfo.com/series/nidahas-t20-series-2017-18-1133811/bangladesh-vs-india-final-1133823/full-scorecard"
+          },
+          "cricinfo-report": {
+            "label": "ESPNcricinfo match report",
+            "url": "https://www.espncricinfo.com/series/nidahas-t20-series-2017-18-1133811/bangladesh-vs-india-final-1133823/match-report"
+          },
+          "computed": { "label": "Computed from ball-by-ball" }
+        }
+      },
+      "timelineStart": { "runs": 133, "wickets": 5, "balls": 108 },
+      "timeline": [
+        { "id": "18.1", "over": 19, "bowler": "Rubel Hossain", "label": "6", "kind": "six", "runs": 6, "legal": true, "desc": "Rubel to Karthik, SIX over long-on", "momentId": "dk-first-ball" },
+        { "id": "18.2", "over": 19, "bowler": "Rubel Hossain", "label": "4", "kind": "four", "runs": 4, "legal": true, "desc": "Rubel to Karthik, FOUR past long-on" },
+        { "id": "18.3", "over": 19, "bowler": "Rubel Hossain", "label": "6", "kind": "six", "runs": 6, "legal": true, "desc": "Rubel to Karthik, SIX over square leg" },
+        { "id": "18.4", "over": 19, "bowler": "Rubel Hossain", "label": "0", "kind": "dot", "runs": 0, "legal": true, "desc": "Rubel to Karthik, no run (missed cut)" },
+        { "id": "18.5", "over": 19, "bowler": "Rubel Hossain", "label": "2", "kind": "run", "runs": 2, "legal": true, "desc": "Rubel to Karthik, 2 runs to long-off" },
+        { "id": "18.6", "over": 19, "bowler": "Rubel Hossain", "label": "4", "kind": "four", "runs": 4, "legal": true, "desc": "Rubel to Karthik, FOUR scooped to long leg", "momentId": "dk-scoop" },
+        { "id": "19.1-wd", "over": 20, "bowler": "Soumya Sarkar", "label": "wd", "kind": "wide", "runs": 1, "legal": false, "desc": "Soumya, wide down the leg side" },
+        { "id": "19.1", "over": 20, "bowler": "Soumya Sarkar", "label": "0", "kind": "dot", "runs": 0, "legal": true, "desc": "Soumya to Shankar, no run" },
+        { "id": "19.2", "over": 20, "bowler": "Soumya Sarkar", "label": "1", "kind": "run", "runs": 1, "legal": true, "desc": "Soumya to Shankar, 1 run" },
+        { "id": "19.3", "over": 20, "bowler": "Soumya Sarkar", "label": "1", "kind": "run", "runs": 1, "legal": true, "desc": "Soumya to Karthik, 1 run" },
+        { "id": "19.4", "over": 20, "bowler": "Soumya Sarkar", "label": "4", "kind": "four", "runs": 4, "legal": true, "desc": "Soumya to Shankar, FOUR to third man" },
+        { "id": "19.5", "over": 20, "bowler": "Soumya Sarkar", "label": "W", "kind": "wicket", "runs": 0, "legal": true, "desc": "Soumya to Shankar, OUT c Mehidy", "momentId": "shankar-out" },
+        { "id": "19.6", "over": 20, "bowler": "Soumya Sarkar", "label": "6", "kind": "six", "runs": 6, "legal": true, "desc": "Soumya to Karthik, SIX over extra cover to win", "momentId": "dk-last-ball" }
+      ],
+      "moments": [
+        {
+          "id": "dk-first-ball",
+          "ball": "18.1",
+          "timelineId": "18.1",
+          "title": { "en": "Karthik's first-ball six", "hi": "Karthik ki pehli ball pe six" },
+          "bowler": "Rubel Hossain",
+          "striker": { "name": "Dinesh Karthik", "before": { "runs": 0, "balls": 0 }, "after": { "runs": 6, "balls": 1 } },
+          "nonStriker": { "name": "Vijay Shankar", "score": { "runs": 12, "balls": 15 } },
+          "event": {
+            "tag": "SIX",
+            "kind": "six",
+            "summary": {
+              "en": "Rubel Hossain to Dinesh Karthik: a low full toss, hit straight over the bowler for SIX on the first ball Karthik faces.",
+              "hi": "Rubel Hossain ki low full toss, aur Karthik ne apni pehli hi ball seedha bowler ke upar se SIX maar di."
+            },
+            "impact": { "value": "+6", "label": { "en": "on the first ball he faced", "hi": "apni pehli hi ball pe" } }
+          },
+          "shot": { "result": "six", "angle": -6, "distance": 1.1, "fullToss": true, "label": "SIX!" },
+          "before": { "runs": 133, "wickets": 5, "balls": 108 },
+          "after": { "runs": 139, "wickets": 5, "balls": 109 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "A first-ball statement", "hi": "Pehli ball pe dhamaka" },
+              "headline": {
+                "en": "Karthik's very first ball: a full toss, smashed over the bowler for six.",
+                "hi": "Karthik ki pehli hi ball: full toss, aur seedha bowler ke upar se six."
+              },
+              "body": {
+                "en": "India needed 34 runs from 12 balls when Dinesh Karthik walked in. Rubel Hossain tried to bowl at his toes, but the ball arrived without bouncing. Karthik hit it over Rubel's head for six. No warm-up, no settling in.",
+                "hi": "Dinesh Karthik aaye tab India ko 12 balls mein 34 runs chahiye the. Rubel Hossain ne pairon pe ball daalne ki koshish ki, par ball bina tappa khaye pahunchi. Karthik ne use Rubel ke sir ke upar se six maar diya. Na warm-up, na settle hone ka time."
+              },
+              "analogy": {
+                "en": "Like a substitute scoring with their very first touch of the ball.",
+                "hi": "Jaise substitute player apne pehle hi touch pe goal kar de."
+              },
+              "watchNext": {
+                "en": "28 more needed from 11 balls.",
+                "hi": "Ab 11 balls mein 28 aur chahiye."
+              },
+              "decoder": [
+                { "term": "Full toss", "meaning": { "en": "A ball that reaches the batter without bouncing. Easier to hit hard.", "hi": "Bina tappa khaye batter tak pahunchne wali ball. Zor se maarna aasaan." } },
+                { "term": "Required rate", "meaning": { "en": "Runs needed per over to win. Here it's 17 an over: huge.", "hi": "Jeetne ke liye har over mein chahiye runs. Yahan 17 per over: bahut zyada." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "The yorker that missed", "hi": "Chooka hua yorker" },
+              "headline": {
+                "en": "Bangladesh wanted yorkers. Rubel missed by a few inches.",
+                "hi": "Bangladesh ko yorker chahiye the. Rubel kuch inch se chook gaye."
+              },
+              "body": {
+                "en": "With 34 needed off 12, Bangladesh only had to keep the ball at the batter's feet. Mustafizur had just bowled a wicket maiden doing exactly that. Rubel aimed for the same yorker, but it came out as a low full toss, and a fresh batter ready to attack from ball one was waiting.",
+                "hi": "34 off 12 pe Bangladesh ko bas ball batter ke pairon pe rakhni thi. Mustafizur ne abhi yahi karke wicket maiden daala tha. Rubel ne bhi wahi yorker try kiya, par woh low full toss ban gayi, aur pehli ball se attack karne ko taiyaar naya batter intezaar kar raha tha."
+              },
+              "side": { "en": "Bangladesh's options for this ball", "hi": "Is ball ke liye Bangladesh ke options" },
+              "options": [
+                {
+                  "label": { "en": "Yorker at the toes", "hi": "Pairon pe yorker" },
+                  "detail": { "en": "Mustafizur's plan worked an over earlier. Miss it slightly and it's a full toss.", "hi": "Ek over pehle Mustafizur ka plan chala tha. Thoda chooka toh full toss." },
+                  "played": true,
+                  "risk": 55,
+                  "reward": 80
+                },
+                {
+                  "label": { "en": "Wide yorker", "hi": "Wide yorker" },
+                  "detail": { "en": "Harder to reach, but a wide gives away a run and an extra ball.", "hi": "Pahunchna mushkil, par wide gaya toh ek run aur ek extra ball." },
+                  "played": false,
+                  "risk": 45,
+                  "reward": 66
+                },
+                {
+                  "label": { "en": "Slower bouncer", "hi": "Slower bouncer" },
+                  "detail": { "en": "Surprise value against a new batter, but a short ball can disappear.", "hi": "Naye batter ke liye surprise, par short ball udd bhi sakti hai." },
+                  "played": false,
+                  "risk": 62,
+                  "reward": 48
+                }
+              ],
+              "nextMove": {
+                "en": "Rubel needs to find the yorker again, or go wide outside off stump.",
+                "hi": "Rubel ko yorker dobara dhoondhna hoga, ya off stump ke bahar wide jaana hoga."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "Req. rate 17.00 → 15.27", "hi": "Req. rate 17.00 → 15.27" },
+              "headline": {
+                "en": "One ball in, Karthik has cut the asking rate from 17.00 to 15.27.",
+                "hi": "Ek ball mein Karthik ne required rate 17.00 se 15.27 kar diya."
+              },
+              "body": {
+                "en": "India needed 2.83 runs a ball when Karthik arrived. After one six it's 2.55. The over before, Mustafizur had bowled a wicket maiden: six balls, no runs, one wicket.",
+                "hi": "Karthik aaye tab India ko 2.83 runs per ball chahiye the. Ek six ke baad 2.55. Usse pichhle over mein Mustafizur ne wicket maiden daala tha: chhe balls, zero runs, ek wicket."
+              },
+              "facts": [
+                { "value": "34 off 12", "label": { "en": "what India needed when Karthik walked in", "hi": "Karthik ke aane pe India ko itna chahiye tha" }, "source": "cricinfo-report" },
+                { "value": "4-1-21-1", "label": { "en": "Mustafizur's figures, ending with a wicket maiden in the 18th over", "hi": "Mustafizur ke figures, 18th over mein wicket maiden ke saath" }, "source": "cricinfo-scorecard" },
+                { "value": "7.81 → 10.00", "label": { "en": "India's required rate climbing through four boundary-less middle overs", "hi": "Beech ke chaar bina-boundary overs mein India ka badhta required rate" }, "source": "cricinfo-report" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "+12 for Karthik on his first ball. As captain: +24.",
+                "hi": "Pehli ball pe Karthik ke +12. Captain ho toh +24."
+              },
+              "body": {
+                "en": "A six earns 6 Run points and a 6-point Six Bonus. Karthik went from 0 to 6 on ball one, so the duck risk is gone straight away.",
+                "hi": "Six pe 6 Run points aur 6 ka Six Bonus. Karthik pehli ball pe 0 se 6 pahunche, toh duck ka darr turant khatam."
+              },
+              "ledger": [
+                { "player": "Dinesh Karthik", "team": "IND", "ruleId": "bat.run", "count": 6 },
+                { "player": "Dinesh Karthik", "team": "IND", "ruleId": "bat.six_bonus", "count": 1 }
+              ],
+              "notes": [
+                { "en": "Karthik moves from 0 to 6. The 25 Run Bonus (+4) is 19 runs away.", "hi": "Karthik 0 se 6 pe. 25 Run Bonus (+4) ab 19 runs door hai." }
+              ],
+              "caveats": [
+                { "kind": "pending", "text": { "en": "Rubel Hossain's economy-rate points settle at the end of the innings.", "hi": "Rubel Hossain ke economy-rate points innings ke end pe settle honge." } }
+              ]
+            }
+          }
+        },
+        {
+          "id": "dk-scoop",
+          "ball": "18.6",
+          "timelineId": "18.6",
+          "title": { "en": "22 off the over, finished with a scoop", "hi": "Over mein 22, aakhir mein scoop" },
+          "bowler": "Rubel Hossain",
+          "striker": { "name": "Dinesh Karthik", "before": { "runs": 18, "balls": 5 }, "after": { "runs": 22, "balls": 6 } },
+          "nonStriker": { "name": "Vijay Shankar", "score": { "runs": 12, "balls": 15 } },
+          "event": {
+            "tag": "FOUR",
+            "kind": "four",
+            "summary": {
+              "en": "Rubel to Karthik: Karthik moves across to leg, then scoops the ball over his shoulder to the long-leg boundary. FOUR, and 22 off the over.",
+              "hi": "Rubel to Karthik: Karthik leg ki taraf khiske, phir ball ko kandhe ke upar se long leg boundary pe scoop kiya. FOUR, aur over mein 22."
+            },
+            "impact": { "value": "+4", "label": { "en": "and 22 runs off the over", "hi": "aur over mein 22 runs" } }
+          },
+          "shot": { "result": "four", "angle": -165, "distance": 1, "label": "FOUR!" },
+          "before": { "runs": 151, "wickets": 5, "balls": 113 },
+          "after": { "runs": 155, "wickets": 5, "balls": 114 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "22 runs in one over", "hi": "Ek over mein 22 runs" },
+              "headline": {
+                "en": "Karthik scooped the ball behind him for four. That's 22 runs in one over.",
+                "hi": "Karthik ne ball peeche scoop karke four maara. Ek over mein 22 runs."
+              },
+              "body": {
+                "en": "Karthik moved across, waited, and flicked the ball over his own shoulder to the boundary behind the wicket. That ended an over of 6, 4, 6, 0, 2, 4. India started the over needing 34 from 12 balls. Now it's 12 from 6.",
+                "hi": "Karthik khiske, ruke, aur ball ko apne kandhe ke upar se wicket ke peeche boundary pe bhej diya. Over raha: 6, 4, 6, 0, 2, 4. Over shuru hua tab 12 balls mein 34 chahiye the. Ab 6 balls mein 12."
+              },
+              "analogy": {
+                "en": "Like climbing two-thirds of a mountain in one go.",
+                "hi": "Jaise ek hi baar mein pahaad ka do-tihaai chadh lena."
+              },
+              "watchNext": {
+                "en": "12 needed from the final over.",
+                "hi": "Last over mein 12 chahiye."
+              },
+              "decoder": [
+                { "term": "Scoop", "meaning": { "en": "Hitting the ball over your shoulder, behind the wicket, using the bowler's pace.", "hi": "Bowler ki speed use karke ball ko kandhe ke upar se wicket ke peeche bhejna." } },
+                { "term": "Four", "meaning": { "en": "The ball reaches the rope after bouncing: 4 runs.", "hi": "Ball tappa khakar rope tak: 4 runs." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "Moving first opened the scoop", "hi": "Pehle khiskna, phir scoop" },
+              "headline": {
+                "en": "Karthik moved first, the bowler followed him, and that opened up the scoop.",
+                "hi": "Karthik pehle khiske, bowler ne unka peechha kiya, aur scoop ka raasta khul gaya."
+              },
+              "body": {
+                "en": "With fine leg pulled up, the area behind square on the leg side was empty. Karthik walked across to draw Rubel's line, then used Rubel's pace to scoop over the short fine leg. Rubel's pace, usually his weapon, did the work for Karthik.",
+                "hi": "Fine leg andar tha, toh leg side pe square ke peeche jagah khaali thi. Karthik ne khisak kar Rubel ki line apni taraf kheenchi, phir Rubel ki hi speed se short fine leg ke upar scoop kiya. Rubel ka hathiyaar, uski speed, Karthik ke kaam aa gayi."
+              },
+              "side": { "en": "Bangladesh's options for this ball", "hi": "Is ball ke liye Bangladesh ke options" },
+              "options": [
+                {
+                  "label": { "en": "Follow the batter", "hi": "Batter ke peeche jao" },
+                  "detail": { "en": "Bowl at Karthik's new position. It gives him pace to steer fine.", "hi": "Karthik ki nayi jagah pe ball. Usse fine bhejne ki speed mil jaati hai." },
+                  "played": true,
+                  "risk": 62,
+                  "reward": 45
+                },
+                {
+                  "label": { "en": "Stay wide outside off", "hi": "Off ke bahar wide" },
+                  "detail": { "en": "Hard to scoop, and the off side was guarded. Risk of a wide.", "hi": "Scoop mushkil, off side guarded thi. Wide ka risk." },
+                  "played": false,
+                  "risk": 40,
+                  "reward": 62
+                },
+                {
+                  "label": { "en": "Short at the body", "hi": "Body pe short" },
+                  "detail": { "en": "Cramps the scoop, but a top edge can still fly fine.", "hi": "Scoop ki jagah kam, par top edge fine ja sakta hai." },
+                  "played": false,
+                  "risk": 55,
+                  "reward": 50
+                }
+              ],
+              "nextMove": {
+                "en": "12 off the last over. Bangladesh must now choose who bowls it.",
+                "hi": "Last over mein 12. Ab Bangladesh ko chunna hai ki over kaun daalega."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "6, 4, 6, 0, 2, 4", "hi": "6, 4, 6, 0, 2, 4" },
+              "headline": {
+                "en": "6, 4, 6, 0, 2, 4: 22 runs off Rubel's over.",
+                "hi": "6, 4, 6, 0, 2, 4: Rubel ke over mein 22 runs."
+              },
+              "body": {
+                "en": "Required rate at the start of the over: 17.00. At the end: 12.00. Karthik faced all six balls and scored all 22.",
+                "hi": "Over ke shuru mein required rate: 17.00. End mein: 12.00. Karthik ne chhe ki chhe balls kheli aur saare 22 banaye."
+              },
+              "facts": [
+                { "value": "22", "label": { "en": "runs off the 19th over, all from Karthik's bat", "hi": "runs 19th over mein, saare Karthik ke bat se" }, "source": "computed" },
+                { "value": "4-0-35-2", "label": { "en": "Rubel's final figures: 22 of the 35 came in this over", "hi": "Rubel ke final figures: 35 mein se 22 isi over mein" }, "source": "cricinfo-scorecard" },
+                { "value": "12 (15)", "label": { "en": "Vijay Shankar's score at the other end while Karthik hit", "hi": "Karthik ke maarte waqt doosre end pe Vijay Shankar ka score" }, "source": "cricinfo-bbb" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "+8 for this four. The whole over was worth 42 points to Karthik.",
+                "hi": "Is four ke +8. Poora over Karthik ko 42 points de gaya."
+              },
+              "body": {
+                "en": "A four earns 4 Run points plus a 4-point Boundary Bonus. Across the over, Karthik collected 22 Run points, two Six Bonuses (12) and two Boundary Bonuses (8).",
+                "hi": "Four pe 4 Run points plus 4 ka Boundary Bonus. Poore over mein Karthik ko 22 Run points, do Six Bonus (12) aur do Boundary Bonus (8) mile."
+              },
+              "ledger": [
+                { "player": "Dinesh Karthik", "team": "IND", "ruleId": "bat.run", "count": 4 },
+                { "player": "Dinesh Karthik", "team": "IND", "ruleId": "bat.boundary_bonus", "count": 1 }
+              ],
+              "notes": [
+                { "en": "22 + 12 + 8 = 42 points for Karthik from one over, before any captain multiplier.", "hi": "22 + 12 + 8 = 42 points, ek over mein, captain multiplier se pehle." },
+                { "en": "Rubel's only dot ball of the over (ball 4) earned him a Dot Ball point (+1).", "hi": "Over ki ek hi dot ball (4th ball) pe Rubel ko Dot Ball ka +1 mila." }
+              ],
+              "caveats": []
+            }
+          }
+        },
+        {
+          "id": "shankar-out",
+          "ball": "19.5",
+          "timelineId": "19.5",
+          "title": { "en": "Shankar holes out", "hi": "Shankar catch out" },
+          "bowler": "Soumya Sarkar",
+          "striker": { "name": "Vijay Shankar", "before": { "runs": 17, "balls": 18 }, "after": { "runs": 17, "balls": 19 }, "out": true },
+          "nonStriker": { "name": "Dinesh Karthik", "score": { "runs": 23, "balls": 7 } },
+          "event": {
+            "tag": "WICKET",
+            "kind": "wicket",
+            "summary": {
+              "en": "Soumya to Shankar: hit high towards long-on. The fielder there drops it, but Mehidy Hasan, running in from long-off, takes the rebound. OUT for 17.",
+              "hi": "Soumya to Shankar: ball oonchi long-on ki taraf. Wahan ke fielder se catch chhoota, par long-off se daudte Mehidy Hasan ne rebound pakad liya. OUT, 17."
+            },
+            "impact": { "value": "OUT", "label": { "en": "5 needed off the last ball", "hi": "last ball pe 5 chahiye" } }
+          },
+          "shot": { "result": "caught", "angle": 12, "distance": 0.88, "label": "CAUGHT!" },
+          "before": { "runs": 162, "wickets": 5, "balls": 118 },
+          "after": { "runs": 162, "wickets": 6, "balls": 119 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "A dropped catch… then caught", "hi": "Catch chhoota… phir pakda" },
+              "headline": {
+                "en": "Vijay Shankar is caught. India need 5 from the very last ball.",
+                "hi": "Vijay Shankar catch out. India ko last ball pe 5 chahiye."
+              },
+              "body": {
+                "en": "Shankar hit the ball high towards the boundary. One fielder got both hands to it and dropped it, but a second fielder running in caught it before it touched the ground. Shankar is out. India now need a boundary off the final ball, and Karthik is on strike.",
+                "hi": "Shankar ne ball oonchi boundary ki taraf maari. Ek fielder ke dono haath lage par catch chhoot gaya, lekin daudte hue doosre fielder ne zameen chhoone se pehle pakad liya. Shankar out. Ab last ball pe boundary chahiye, aur strike pe Karthik hain."
+              },
+              "analogy": {
+                "en": "Like a goalkeeper fumbling a shot, only for a defender to clear it off the line.",
+                "hi": "Jaise goalkeeper se shot chhoote aur defender line se clear kar de."
+              },
+              "watchNext": {
+                "en": "5 needed off 1 ball. Only a six wins it. A four ties.",
+                "hi": "1 ball, 5 runs. Sirf six se jeet. Four se tie."
+              },
+              "decoder": [
+                { "term": "Caught", "meaning": { "en": "A fielder catches the ball before it bounces: the batter is out.", "hi": "Fielder ne ball zameen pe girne se pehle pakdi: batter out." } },
+                { "term": "Tie", "meaning": { "en": "Both teams finish on the same score.", "hi": "Dono teams ka score barabar." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "The wicket put Karthik on strike", "hi": "Wicket se strike Karthik ko" },
+              "headline": {
+                "en": "The wicket may have helped India: Karthik is now on strike for the last ball.",
+                "hi": "Shayad wicket se India ko fayda hua: last ball pe strike Karthik ke paas."
+              },
+              "body": {
+                "en": "Shankar swung for a boundary and was caught. But the batters had crossed while the ball was in the air, so Karthik, India's in-form hitter, faces the final ball instead of a new batter. In 2022 this law changed: today the new batter would take strike.",
+                "hi": "Shankar ne boundary ke liye bat ghumaya aur catch ho gaye. Par ball hawa mein thi tab batters cross kar chuke the, toh last ball naya batter nahi, form mein chal rahe Karthik khelenge. 2022 mein ye rule badla: aaj naya batter strike leta."
+              },
+              "side": { "en": "India's options for this ball", "hi": "Is ball ke liye India ke options" },
+              "options": [
+                {
+                  "label": { "en": "Swing for the boundary", "hi": "Boundary ke liye ghumao" },
+                  "detail": { "en": "A four or six nearly finishes it, but a mistimed hit can be caught.", "hi": "Four ya six se lagbhag kaam khatam, par galat timing pe catch." },
+                  "played": true,
+                  "risk": 70,
+                  "reward": 75
+                },
+                {
+                  "label": { "en": "Take a single", "hi": "Single lo" },
+                  "detail": { "en": "Gives Karthik strike, but leaves 4 off the last ball.", "hi": "Strike Karthik ko, par last ball pe 4 chahiye." },
+                  "played": false,
+                  "risk": 20,
+                  "reward": 42
+                },
+                {
+                  "label": { "en": "Run two", "hi": "Do run" },
+                  "detail": { "en": "Keeps Shankar on strike for 3 off 1: the wrong batter facing.", "hi": "Shankar strike pe rahenge, 3 off 1: galat batter ke saamne ball." },
+                  "played": false,
+                  "risk": 40,
+                  "reward": 30
+                }
+              ],
+              "nextMove": {
+                "en": "Bangladesh must stop a six with one ball. Expect a yorker or a wide line outside off.",
+                "hi": "Bangladesh ko ek ball pe six rokna hai. Yorker ya off ke bahar wide line aayegi."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "5 off 1: only a six wins", "hi": "5 off 1: sirf six se jeet" },
+              "headline": {
+                "en": "5 off 1 ball: only a six wins it. A four would tie the scores.",
+                "hi": "1 ball pe 5: sirf six se jeet. Four se score barabar."
+              },
+              "body": {
+                "en": "Shankar made 17 off 19 balls, a strike rate of 89.47. Bangladesh's fifth bowler, Mehidy, went for 17 in his only over, so part-timer Soumya bowled the last.",
+                "hi": "Shankar ne 19 balls pe 17 banaye, strike rate 89.47. Bangladesh ke fifth bowler Mehidy ka ek hi over 17 runs gaya, isliye last over part-timer Soumya ne daala."
+              },
+              "facts": [
+                { "value": "17 (19)", "label": { "en": "Shankar's innings, with 3 fours", "hi": "Shankar ki innings, 3 fours ke saath" }, "source": "cricinfo-scorecard" },
+                { "value": "35 off 28", "label": { "en": "Pandey and Shankar's partnership before Karthik arrived", "hi": "Karthik se pehle Pandey aur Shankar ki partnership" }, "source": "cricinfo-report" },
+                { "value": "1-0-17-0", "label": { "en": "Mehidy's only over. He wasn't brought back", "hi": "Mehidy ka ek hi over. Dobara nahi bulaya gaya" }, "source": "cricinfo-scorecard" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "Soumya +30, Mehidy +8. The fielder who dropped it gets 0.",
+                "hi": "Soumya +30, Mehidy +8. Jisse catch chhoota, use 0."
+              },
+              "body": {
+                "en": "Catch points go to the fielder credited on the scorecard. The first fielder touched it but dropped it, so earns nothing.",
+                "hi": "Catch ke points scorecard pe credited fielder ko milte hain. Pehle fielder ne chhua par chhod diya, toh use kuch nahi."
+              },
+              "ledger": [
+                { "player": "Soumya Sarkar", "team": "BAN", "ruleId": "bowl.wicket", "count": 1 },
+                { "player": "Mehidy Hasan Miraz", "team": "BAN", "ruleId": "field.catch", "count": 1 }
+              ],
+              "notes": [
+                { "en": "Caught, not LBW or bowled: no +8 bonus. It's Soumya's only wicket of the match.", "hi": "Catch out, LBW ya bowled nahi: +8 bonus nahi. Match mein Soumya ka ye akela wicket." },
+                { "en": "Shankar is out for 17, so no duck penalty.", "hi": "Shankar 17 pe out, toh duck penalty nahi." }
+              ],
+              "caveats": [
+                { "kind": "unavailable", "text": { "en": "Dot Ball (+1) for Soumya: the official page doesn't say whether a wicket delivery counts as a dot ball, so it isn't added.", "hi": "Soumya ka Dot Ball (+1): official page pe nahi likha ki wicket wali ball dot ginti hai ya nahi, isliye nahi joda." } }
+              ]
+            }
+          }
+        },
+        {
+          "id": "dk-last-ball",
+          "ball": "19.6",
+          "timelineId": "19.6",
+          "title": { "en": "Karthik's last-ball six", "hi": "Karthik ka last-ball six" },
+          "bowler": "Soumya Sarkar",
+          "striker": { "name": "Dinesh Karthik", "before": { "runs": 23, "balls": 7 }, "after": { "runs": 29, "balls": 8 } },
+          "nonStriker": { "name": "Washington Sundar", "score": { "runs": 0, "balls": 0 } },
+          "event": {
+            "tag": "SIX · WIN",
+            "kind": "win",
+            "summary": {
+              "en": "Soumya to Karthik, 5 needed off the last ball: a wide half-volley, driven flat and hard over extra cover for SIX. India win.",
+              "hi": "Soumya to Karthik, last ball pe 5 chahiye: wide half-volley, aur Karthik ne extra cover ke upar flat SIX maara. India jeet gaya."
+            },
+            "impact": { "value": "+6", "label": { "en": "off the last ball, to win", "hi": "last ball pe, jeet ke liye" } }
+          },
+          "shot": { "result": "six", "angle": 48, "distance": 1.1, "label": "SIX! WIN!" },
+          "before": { "runs": 162, "wickets": 6, "balls": 119 },
+          "after": { "runs": 168, "wickets": 6, "balls": 120 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "How India won", "hi": "India kaise jeeta" },
+              "headline": {
+                "en": "Five needed off the last ball. Karthik hits a six. India win!",
+                "hi": "Last ball pe paanch chahiye. Karthik ka six. India jeet gaya!"
+              },
+              "body": {
+                "en": "A four would only tie the game. Karthik needed six. Soumya Sarkar bowled wide of off stump, and Karthik hit it flat and hard over the cover boundary. India won by 4 wickets, and the whole team ran onto the field.",
+                "hi": "Four se sirf tie hota. Karthik ko six chahiye tha. Soumya Sarkar ne off stump ke bahar daali, aur Karthik ne use flat aur zor se cover boundary ke paar bhej diya. India 4 wickets se jeeta, aur poori team maidan pe daud padi."
+              },
+              "analogy": {
+                "en": "Like needing a perfect score on the last question and getting it.",
+                "hi": "Jaise last question pe full marks chahiye the, aur mil gaye."
+              },
+              "watchNext": {
+                "en": "Match over. Karthik finishes on 29 not out off 8 balls.",
+                "hi": "Match khatam. Karthik 8 balls pe 29 not out."
+              },
+              "decoder": [
+                { "term": "Not out", "meaning": { "en": "The batter was still in when the innings ended.", "hi": "Innings khatam hone tak batter out nahi hua." } },
+                { "term": "Half-volley", "meaning": { "en": "A ball that bounces just in front of the batter: ideal to hit.", "hi": "Batter ke bilkul saamne tappa khaane wali ball: maarne ke liye perfect." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "A part-timer for the last over", "hi": "Last over part-timer ke haath" },
+              "headline": {
+                "en": "Bangladesh had to bowl the last over with a part-timer. Karthik made them pay.",
+                "hi": "Bangladesh ko last over part-timer se karwana pada. Karthik ne saza de di."
+              },
+              "body": {
+                "en": "Mehidy Hasan went for 17 in his only over, so Bangladesh didn't bowl him again. That left part-time bowler Soumya Sarkar with the final over. Off the last ball he aimed wide of off stump, but it was a half-volley, and Karthik drove it flat over extra cover.",
+                "hi": "Mehidy Hasan ka ek over 17 runs gaya, isliye Bangladesh ne use dobara nahi bulaya. Last over part-time bowler Soumya Sarkar ke paas aaya. Last ball off stump ke bahar wide try ki, par woh half-volley ban gayi, aur Karthik ne extra cover ke upar flat maar diya."
+              },
+              "side": { "en": "Bangladesh's options for the last ball", "hi": "Last ball ke liye Bangladesh ke options" },
+              "options": [
+                {
+                  "label": { "en": "Wide yorker", "hi": "Wide yorker" },
+                  "detail": { "en": "Hardest to hit for six, but a few inches fuller and it's a half-volley.", "hi": "Six maarna sabse mushkil, par thodi si fuller hui toh half-volley." },
+                  "played": true,
+                  "risk": 55,
+                  "reward": 80
+                },
+                {
+                  "label": { "en": "Yorker at the stumps", "hi": "Stumps pe yorker" },
+                  "detail": { "en": "Cuts the angles, but a slog to leg can still clear the rope.", "hi": "Angles band, par leg side slog phir bhi rope paar kar sakta hai." },
+                  "played": false,
+                  "risk": 50,
+                  "reward": 64
+                },
+                {
+                  "label": { "en": "Bouncer", "hi": "Bouncer" },
+                  "detail": { "en": "A surprise, but a short ball can be pulled for six.", "hi": "Surprise hai, par short ball pe pull karke six ho sakta hai." },
+                  "played": false,
+                  "risk": 70,
+                  "reward": 45
+                }
+              ],
+              "nextMove": {
+                "en": "Game over: India 168/6 beat Bangladesh's 166/8.",
+                "hi": "Game over: India 168/6, Bangladesh 166/8 ko haraya."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "29* off 8 balls", "hi": "8 balls pe 29*" },
+              "headline": {
+                "en": "29 not out off 8 balls: a strike rate of 362.50.",
+                "hi": "8 balls pe 29 not out: strike rate 362.50."
+              },
+              "body": {
+                "en": "Karthik scored 22 in the 19th over and 7 in the 20th, with 3 sixes and 2 fours. India won off the very last ball.",
+                "hi": "Karthik ne 19th over mein 22 aur 20th mein 7 banaye, 3 sixes aur 2 fours ke saath. India bilkul last ball pe jeeta."
+              },
+              "facts": [
+                { "value": "29* (8)", "label": { "en": "Karthik's innings: 3 sixes, 2 fours", "hi": "Karthik ki innings: 3 sixes, 2 fours" }, "source": "cricinfo-scorecard" },
+                { "value": "362.50", "label": { "en": "Karthik's strike rate (runs per 100 balls)", "hi": "Karthik ka strike rate (runs per 100 balls)" }, "source": "computed" },
+                { "value": "56 (42)", "label": { "en": "Rohit Sharma's top score earlier in the chase", "hi": "Chase mein pehle Rohit Sharma ka top score" }, "source": "cricinfo-scorecard" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "+16 for Karthik: a six plus the 25 Run Bonus. His strike rate earns nothing.",
+                "hi": "Karthik ke +16: six plus 25 Run Bonus. Strike rate se kuch nahi."
+              },
+              "body": {
+                "en": "Karthik went from 23 to 29, crossing 25 for a +4 bonus. His strike rate of 362.50 would top the scale, but he faced only 8 balls, under the 10-ball minimum.",
+                "hi": "Karthik 23 se 29 pe, 25 cross karke +4 bonus. 362.50 ka strike rate scale pe sabse upar hota, par unhone sirf 8 balls kheli, 10 ball ke minimum se kam."
+              },
+              "ledger": [
+                { "player": "Dinesh Karthik", "team": "IND", "ruleId": "bat.run", "count": 6 },
+                { "player": "Dinesh Karthik", "team": "IND", "ruleId": "bat.six_bonus", "count": 1 },
+                { "player": "Dinesh Karthik", "team": "IND", "ruleId": "bat.25_run_bonus", "count": 1 }
+              ],
+              "settlement": [
+                { "player": "Dinesh Karthik", "team": "IND", "kind": "strikeRate", "runs": 29, "balls": 8 },
+                { "player": "Rohit Sharma", "team": "IND", "kind": "strikeRate", "runs": 56, "balls": 42 },
+                { "player": "Vijay Shankar", "team": "IND", "kind": "strikeRate", "runs": 17, "balls": 19 },
+                { "player": "Soumya Sarkar", "team": "BAN", "kind": "economy", "runs": 33, "balls": 18 },
+                { "player": "Rubel Hossain", "team": "BAN", "kind": "economy", "runs": 35, "balls": 24 }
+              ],
+              "notes": [
+                { "en": "Strike-rate and economy points settle once the innings ends, so they only appear here.", "hi": "Strike rate aur economy ke points innings khatam hone pe settle hote hain, isliye sirf yahan." }
+              ],
+              "caveats": [
+                { "kind": "unavailable", "text": { "en": "Full-match fantasy totals aren't shown. Fourth Man only scores these moments plus the innings-end rates.", "hi": "Poore match ke fantasy totals nahi dikhaye. Fourth Man sirf in moments aur innings-end rates ko score karta hai." } }
+              ]
+            }
+          }
+        }
+      ]
+    },
+
+    {
+      "match": {
+        "id": "eng-v-wi-2016",
+        "shortTitle": "ENG v WI",
+        "demoLabel": "Demo replay · Completed match · Not live",
+        "dataNote": { "kind": "illustrative", "label": "Illustrative demo data" },
+        "competition": "ICC World T20 2016",
+        "stage": "Final",
+        "venue": "Eden Gardens, Kolkata",
+        "venueShort": "Kolkata",
+        "dateLabel": "3 Apr 2016",
+        "chasing": { "code": "WI", "name": "West Indies", "color": "#8c1d40" },
+        "defending": { "code": "ENG", "name": "England", "color": "#1f45a8" },
+        "firstInnings": { "code": "ENG", "runs": 155, "wickets": 9, "overs": "20" },
+        "target": 156,
+        "totalBalls": 120,
+        "result": "West Indies won by 4 wickets (2 balls to spare)",
+        "resultBanner": { "en": "West Indies win by 4 wickets · 2 balls left", "hi": "West Indies 4 wickets se jeeta · 2 balls baaki" },
+        "hook": {
+          "en": "19 needed off the last over. Four balls later, it was over.",
+          "hi": "Last over mein 19 chahiye the. Chaar balls mein kaam khatam."
+        },
+        "sources": {
+          "demo": { "label": "Illustrative demo data" },
+          "computed": { "label": "Computed from the demo ball-by-ball" }
+        }
+      },
+      "timelineStart": { "runs": 137, "wickets": 6, "balls": 114 },
+      "timeline": [
+        { "id": "19.1", "over": 20, "bowler": "Ben Stokes", "label": "6", "kind": "six", "runs": 6, "legal": true, "desc": "Stokes to Brathwaite, SIX over deep backward square leg", "momentId": "six-one" },
+        { "id": "19.2", "over": 20, "bowler": "Ben Stokes", "label": "6", "kind": "six", "runs": 6, "legal": true, "desc": "Stokes to Brathwaite, SIX over long-on", "momentId": "six-two" },
+        { "id": "19.3", "over": 20, "bowler": "Ben Stokes", "label": "6", "kind": "six", "runs": 6, "legal": true, "desc": "Stokes to Brathwaite, SIX over long-off", "momentId": "six-three" },
+        { "id": "19.4", "over": 20, "bowler": "Ben Stokes", "label": "6", "kind": "six", "runs": 6, "legal": true, "desc": "Stokes to Brathwaite, SIX over midwicket to win", "momentId": "six-four" }
+      ],
+      "moments": [
+        {
+          "id": "six-one",
+          "ball": "19.1",
+          "timelineId": "19.1",
+          "title": { "en": "19 needed. Six number one", "hi": "19 chahiye. Pehla six" },
+          "bowler": "Ben Stokes",
+          "striker": { "name": "Carlos Brathwaite", "before": { "runs": 10, "balls": 6 }, "after": { "runs": 16, "balls": 7 } },
+          "nonStriker": { "name": "Marlon Samuels", "score": { "runs": 85, "balls": 66 } },
+          "event": {
+            "tag": "SIX",
+            "kind": "six",
+            "summary": {
+              "en": "Ben Stokes to Carlos Brathwaite: a full ball drifting onto the pads, swung over deep backward square leg for SIX.",
+              "hi": "Ben Stokes ki full ball pads pe aayi, aur Brathwaite ne deep backward square leg ke upar SIX maar diya."
+            },
+            "impact": { "value": "+6", "label": { "en": "first ball of the final over", "hi": "last over ki pehli ball" } }
+          },
+          "shot": { "result": "six", "angle": -125, "distance": 1.1, "label": "SIX!" },
+          "before": { "runs": 137, "wickets": 6, "balls": 114 },
+          "after": { "runs": 143, "wickets": 6, "balls": 115 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "The first domino", "hi": "Pehla domino" },
+              "headline": {
+                "en": "19 needed off the last over. Brathwaite hits the first ball for six.",
+                "hi": "Last over mein 19 chahiye. Brathwaite ne pehli ball pe six maara."
+              },
+              "body": {
+                "en": "Ben Stokes was bowling the final over for England. He aimed at Carlos Brathwaite's feet, but the ball drifted onto his legs. Brathwaite swung it high over the boundary behind square. Now it's 13 needed from 5 balls.",
+                "hi": "England ke liye last over Ben Stokes daal rahe the. Unhone Brathwaite ke pairon pe ball daalni chahi, par ball pads ki taraf chali gayi. Brathwaite ne use square ke peeche boundary ke upar uda diya. Ab 5 balls mein 13 chahiye."
+              },
+              "analogy": {
+                "en": "Like the first domino falling. Nothing is won yet, but you can see how the rest could fall.",
+                "hi": "Jaise pehla domino gira. Abhi kuch jeeta nahi, par baaki girte hue dikhne lage."
+              },
+              "watchNext": {
+                "en": "13 needed from 5 balls. Another six would make it 7 off 4.",
+                "hi": "5 balls mein 13. Ek aur six aur 4 balls mein 7."
+              },
+              "decoder": [
+                { "term": "Final over", "meaning": { "en": "The last 6 balls of the innings.", "hi": "Innings ki aakhri 6 balls." } },
+                { "term": "Leg side", "meaning": { "en": "The half of the field behind the batter's legs.", "hi": "Maidan ka woh hissa jo batter ke pairon ki taraf hai." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "A yorker onto the pads", "hi": "Pads pe gaya yorker" },
+              "headline": {
+                "en": "Stokes aimed for the yorker and missed onto the pads, the one place a big hitter wants it.",
+                "hi": "Stokes ne yorker try kiya aur pads pe chook gaye, wahi jagah jahan bada hitter ball chahta hai."
+              },
+              "body": {
+                "en": "At 19 off 6, England could give away singles but not boundaries. A yorker at the toes is the hardest ball to hit for six. Stokes missed it slightly towards leg stump, and the ball went onto Brathwaite's legs, where he could swing freely.",
+                "hi": "19 off 6 pe England singles de sakta tha, boundary nahi. Pairon pe yorker pe six maarna sabse mushkil hai. Stokes leg stump ki taraf thoda chooke, aur ball Brathwaite ke pairon pe aayi, jahan woh khul ke ghuma sakte the."
+              },
+              "side": { "en": "England's options for this ball", "hi": "Is ball ke liye England ke options" },
+              "options": [
+                {
+                  "label": { "en": "Yorker", "hi": "Yorker" },
+                  "detail": { "en": "Best ball if it lands. Miss onto the pads and it goes over the leg side.", "hi": "Sahi gira toh best ball. Pads pe chooka toh leg side ke upar." },
+                  "played": true,
+                  "risk": 55,
+                  "reward": 85
+                },
+                {
+                  "label": { "en": "Wide yorker", "hi": "Wide yorker" },
+                  "detail": { "en": "Harder to reach for a six, but the line must be perfect.", "hi": "Six ke liye pahunchna mushkil, par line perfect chahiye." },
+                  "played": false,
+                  "risk": 45,
+                  "reward": 70
+                },
+                {
+                  "label": { "en": "Slower ball", "hi": "Slower ball" },
+                  "detail": { "en": "Changes the pace, but gives the batter time to swing.", "hi": "Speed badalti hai, par batter ko ghumane ka time milta hai." },
+                  "played": false,
+                  "risk": 60,
+                  "reward": 45
+                }
+              ],
+              "nextMove": {
+                "en": "13 off 5. Stokes needs to get his line outside off stump.",
+                "hi": "13 off 5. Stokes ko line off stump ke bahar le jaani hogi."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "Req. rate 19.00 → 15.60", "hi": "Req. rate 19.00 → 15.60" },
+              "headline": {
+                "en": "The required rate falls from 19.00 to 15.60 with one hit.",
+                "hi": "Ek shot mein required rate 19.00 se 15.60."
+              },
+              "body": {
+                "en": "19 off 6 means more than 3 runs a ball. After one six, West Indies need 2.60 a ball. Marlon Samuels, on 85 off 66, watches from the other end.",
+                "hi": "19 off 6 matlab har ball 3 se zyada runs. Ek six ke baad West Indies ko 2.60 per ball chahiye. Doosre end pe Marlon Samuels 85 off 66 pe dekh rahe hain."
+              },
+              "facts": [
+                { "value": "19", "label": { "en": "runs West Indies needed from the final over", "hi": "runs, jo West Indies ko last over mein chahiye the" }, "source": "demo" },
+                { "value": "85* (66)", "label": { "en": "Marlon Samuels at the non-striker's end", "hi": "Non-striker end pe Marlon Samuels" }, "source": "demo" },
+                { "value": "10 (6)", "label": { "en": "Brathwaite's score before the final over", "hi": "Last over se pehle Brathwaite ka score" }, "source": "demo" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "+12 for Brathwaite. As captain: +24.",
+                "hi": "Brathwaite ke +12. Captain ho toh +24."
+              },
+              "body": {
+                "en": "Every six is worth 12 base points: 6 for the runs and 6 for the Six Bonus.",
+                "hi": "Har six 12 base points ka: 6 runs ke aur 6 Six Bonus ke."
+              },
+              "ledger": [
+                { "player": "Carlos Brathwaite", "team": "WI", "ruleId": "bat.run", "count": 6 },
+                { "player": "Carlos Brathwaite", "team": "WI", "ruleId": "bat.six_bonus", "count": 1 }
+              ],
+              "notes": [
+                { "en": "Brathwaite moves from 10 to 16. The 25 Run Bonus (+4) is 9 runs away.", "hi": "Brathwaite 10 se 16 pe. 25 Run Bonus (+4) ab 9 runs door." }
+              ],
+              "caveats": [
+                { "kind": "pending", "text": { "en": "Ben Stokes's economy-rate points settle at the end of the innings.", "hi": "Ben Stokes ke economy-rate points innings ke end pe settle honge." } }
+              ]
+            }
+          }
+        },
+        {
+          "id": "six-two",
+          "ball": "19.2",
+          "timelineId": "19.2",
+          "title": { "en": "Six number two", "hi": "Doosra six" },
+          "bowler": "Ben Stokes",
+          "striker": { "name": "Carlos Brathwaite", "before": { "runs": 16, "balls": 7 }, "after": { "runs": 22, "balls": 8 } },
+          "nonStriker": { "name": "Marlon Samuels", "score": { "runs": 85, "balls": 66 } },
+          "event": {
+            "tag": "SIX",
+            "kind": "six",
+            "summary": {
+              "en": "Stokes to Brathwaite: full again, and Brathwaite stays still and hits it straight over long-on for SIX.",
+              "hi": "Stokes ki phir full ball, Brathwaite ne tik kar seedha long-on ke upar SIX maara."
+            },
+            "impact": { "value": "+6", "label": { "en": "12 runs off 2 balls", "hi": "2 balls pe 12 runs" } }
+          },
+          "shot": { "result": "six", "angle": -18, "distance": 1.1, "label": "SIX!" },
+          "before": { "runs": 143, "wickets": 6, "balls": 115 },
+          "after": { "runs": 149, "wickets": 6, "balls": 116 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "Two in a row", "hi": "Lagaataar do" },
+              "headline": {
+                "en": "Another six, this time straight down the ground. 7 needed from 4 balls.",
+                "hi": "Ek aur six, is baar seedha. 4 balls mein 7 chahiye."
+              },
+              "body": {
+                "en": "Stokes tried again. Brathwaite hit this one over long-on, the boundary straight down the ground on his leg side. Two balls, twelve runs. West Indies need 7 more.",
+                "hi": "Stokes ne phir koshish ki. Brathwaite ne is baar long-on ke upar maara, seedha leg side ki taraf. Do balls, baarah runs. West Indies ko 7 aur chahiye."
+              },
+              "analogy": {
+                "en": "Like scoring twice in a row. Now the other team is starting to panic.",
+                "hi": "Jaise lagaataar do goal. Ab saamne wali team ghabraane lagi."
+              },
+              "watchNext": {
+                "en": "7 needed from 4 balls. One more six and they need just 1.",
+                "hi": "4 balls mein 7. Ek aur six aur sirf 1 chahiye."
+              },
+              "decoder": [
+                { "term": "Long-on", "meaning": { "en": "Fielding spot straight behind the bowler, on the leg side.", "hi": "Bowler ke seedhe peeche, leg side wali fielding position." } },
+                { "term": "Pressure", "meaning": { "en": "When the bowler must be perfect, mistakes get more likely.", "hi": "Jab bowler ko perfect hona ho, galti ke chances badh jaate hain." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "Caught between plans", "hi": "Do plans ke beech phanse" },
+              "headline": {
+                "en": "Stokes is caught between plans. Yorker or wide? Neither landed.",
+                "hi": "Stokes do plans ke beech phanse. Yorker ya wide? Koi nahi chala."
+              },
+              "body": {
+                "en": "After the first six, Stokes went full again, but the length was a little off and Brathwaite stayed still and hit straight. With 7 off 4 to defend, England need dot balls now. Even a single would feel like a win.",
+                "hi": "Pehle six ke baad Stokes ne phir full daali, par length thodi chook gayi aur Brathwaite ne tik kar seedha maara. 7 off 4 bachaane ke liye England ko ab dot balls chahiye. Ek single bhi jeet jaisa lagega."
+              },
+              "side": { "en": "England's options for this ball", "hi": "Is ball ke liye England ke options" },
+              "options": [
+                {
+                  "label": { "en": "Yorker again", "hi": "Phir yorker" },
+                  "detail": { "en": "Stick with the best plan, if the length can be found.", "hi": "Best plan pe tike raho, agar length mil jaaye." },
+                  "played": true,
+                  "risk": 60,
+                  "reward": 80
+                },
+                {
+                  "label": { "en": "Wide outside off", "hi": "Off ke bahar wide" },
+                  "detail": { "en": "Makes Brathwaite reach, but bowling a wide adds a run.", "hi": "Brathwaite ko pahunchna padega, par wide gaya toh ek run aur." },
+                  "played": false,
+                  "risk": 40,
+                  "reward": 68
+                },
+                {
+                  "label": { "en": "Bouncer", "hi": "Bouncer" },
+                  "detail": { "en": "Unexpected, but a short ball can be pulled into the stands.", "hi": "Achanak, par short ball pull karke stands mein ja sakti hai." },
+                  "played": false,
+                  "risk": 65,
+                  "reward": 40
+                }
+              ],
+              "nextMove": {
+                "en": "7 off 4. A dot ball now would swing the pressure back onto the batter.",
+                "hi": "7 off 4. Ab ek dot ball pressure wapas batter pe daal degi."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "12 runs off 2 balls", "hi": "2 balls pe 12 runs" },
+              "headline": {
+                "en": "12 runs from 2 balls. The asking rate is down to 10.50.",
+                "hi": "2 balls pe 12 runs. Required rate ab 10.50."
+              },
+              "body": {
+                "en": "Required runs per ball have dropped from 3.17 at the start of the over to 1.75. Brathwaite has 22 off 8 balls.",
+                "hi": "Over ke shuru mein 3.17 runs per ball chahiye the, ab 1.75. Brathwaite 8 balls pe 22."
+              },
+              "facts": [
+                { "value": "12", "label": { "en": "runs off the first two balls of the over", "hi": "runs, over ki pehli do balls pe" }, "source": "computed" },
+                { "value": "22 (8)", "label": { "en": "Brathwaite's score now", "hi": "Brathwaite ka ab ka score" }, "source": "demo" },
+                { "value": "1.75", "label": { "en": "runs needed per ball, down from 3.17", "hi": "runs per ball chahiye, 3.17 se kam hokar" }, "source": "computed" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "Another +12. Brathwaite's over so far: +24.",
+                "hi": "Phir +12. Ab tak over mein Brathwaite ke +24."
+              },
+              "body": {
+                "en": "Same ball, same points: 6 Run points and the 6-point Six Bonus. One more six crosses 25.",
+                "hi": "Wahi ball, wahi points: 6 Run points aur 6 ka Six Bonus. Ek aur six aur 25 cross."
+              },
+              "ledger": [
+                { "player": "Carlos Brathwaite", "team": "WI", "ruleId": "bat.run", "count": 6 },
+                { "player": "Carlos Brathwaite", "team": "WI", "ruleId": "bat.six_bonus", "count": 1 }
+              ],
+              "notes": [
+                { "en": "Brathwaite moves from 16 to 22. One more six unlocks the 25 Run Bonus (+4).", "hi": "Brathwaite 16 se 22 pe. Ek aur six se 25 Run Bonus (+4) unlock hoga." }
+              ],
+              "caveats": []
+            }
+          }
+        },
+        {
+          "id": "six-three",
+          "ball": "19.3",
+          "timelineId": "19.3",
+          "title": { "en": "Six number three", "hi": "Teesra six" },
+          "bowler": "Ben Stokes",
+          "striker": { "name": "Carlos Brathwaite", "before": { "runs": 22, "balls": 8 }, "after": { "runs": 28, "balls": 9 } },
+          "nonStriker": { "name": "Marlon Samuels", "score": { "runs": 85, "balls": 66 } },
+          "event": {
+            "tag": "SIX",
+            "kind": "six",
+            "summary": {
+              "en": "Stokes to Brathwaite: driven high over long-off for a third SIX in a row. The scores are level.",
+              "hi": "Stokes to Brathwaite: long-off ke upar lagaataar teesra SIX. Score barabar."
+            },
+            "impact": { "value": "+6", "label": { "en": "three sixes in a row", "hi": "lagaataar teen sixes" } }
+          },
+          "shot": { "result": "six", "angle": 20, "distance": 1.1, "label": "SIX!" },
+          "before": { "runs": 149, "wickets": 6, "balls": 116 },
+          "after": { "runs": 155, "wickets": 6, "balls": 117 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "1 run from 3 balls", "hi": "3 balls mein 1 run" },
+              "headline": {
+                "en": "Third six in a row! West Indies need just 1 run from 3 balls.",
+                "hi": "Lagaataar teesra six! West Indies ko 3 balls mein sirf 1 run chahiye."
+              },
+              "body": {
+                "en": "This time Brathwaite hit it over long-off, on the other side of the bowler. The scores are level. A single run now wins the World Cup.",
+                "hi": "Is baar Brathwaite ne long-off ke upar maara, bowler ki doosri taraf. Score barabar ho gaya. Ab ek run aur World Cup jeet."
+              },
+              "analogy": {
+                "en": "Like standing one step from the finish line with three steps still to take.",
+                "hi": "Jaise finish line ek kadam door ho, aur teen kadam abhi baaki."
+              },
+              "watchNext": {
+                "en": "1 run needed from 3 balls.",
+                "hi": "3 balls mein 1 run chahiye."
+              },
+              "decoder": [
+                { "term": "Long-off", "meaning": { "en": "Fielding spot straight behind the bowler, on the off side.", "hi": "Bowler ke seedhe peeche, off side wali fielding position." } },
+                { "term": "Scores level", "meaning": { "en": "Both teams on the same score. One more run wins.", "hi": "Dono teams ka score barabar. Ek run aur jeet." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "England's last throw", "hi": "England ka aakhri daav" },
+              "headline": {
+                "en": "With the scores level, the game is all but gone for England.",
+                "hi": "Score barabar, England ke haath se match lagbhag nikal gaya."
+              },
+              "body": {
+                "en": "Three sixes have turned 19 off 6 into 1 off 3. England can only bring every fielder in to stop the single and hope for a wicket. Even a mishit could still win it for West Indies.",
+                "hi": "Teen sixes ne 19 off 6 ko 1 off 3 bana diya. England bas saare fielders andar bulaakar single rok sakta hai aur wicket ki ummeed kar sakta hai. Galat shot bhi West Indies ko jeeta sakta hai."
+              },
+              "side": { "en": "England's options for this ball", "hi": "Is ball ke liye England ke options" },
+              "options": [
+                {
+                  "label": { "en": "Full outside off", "hi": "Off ke bahar full" },
+                  "detail": { "en": "Away from the leg-side swing, but drivable over long-off.", "hi": "Leg side swing se door, par long-off ke upar drive ho sakti hai." },
+                  "played": true,
+                  "risk": 52,
+                  "reward": 68
+                },
+                {
+                  "label": { "en": "Yorker at the stumps", "hi": "Stumps pe yorker" },
+                  "detail": { "en": "Brings bowled and LBW into play, if it lands.", "hi": "Sahi gira toh bowled aur LBW ka chance." },
+                  "played": false,
+                  "risk": 58,
+                  "reward": 74
+                },
+                {
+                  "label": { "en": "Slower ball", "hi": "Slower ball" },
+                  "detail": { "en": "Could induce a mistimed hit, or sit up to be hit.", "hi": "Galat timing karwa sakti hai, ya maarne ke liye ruk jaati hai." },
+                  "played": false,
+                  "risk": 60,
+                  "reward": 50
+                }
+              ],
+              "nextMove": {
+                "en": "1 off 3. England need a wicket and dot balls: a miracle.",
+                "hi": "1 off 3. England ko wicket aur dot balls chahiye: chamatkaar."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "Req. rate 10.50 → 2.00", "hi": "Req. rate 10.50 → 2.00" },
+              "headline": {
+                "en": "18 runs in 3 balls. Scores level, with 3 balls to go.",
+                "hi": "3 balls mein 18 runs. Score barabar, 3 balls baaki."
+              },
+              "body": {
+                "en": "The required rate has gone 19.00 → 15.60 → 10.50 → 2.00 in three balls. Brathwaite has 28 off 9.",
+                "hi": "Teen balls mein required rate 19.00 → 15.60 → 10.50 → 2.00. Brathwaite 9 balls pe 28."
+              },
+              "facts": [
+                { "value": "18", "label": { "en": "runs from the first three balls of the over", "hi": "runs, over ki pehli teen balls pe" }, "source": "computed" },
+                { "value": "28 (9)", "label": { "en": "Brathwaite's score after his third six", "hi": "Teesre six ke baad Brathwaite ka score" }, "source": "demo" },
+                { "value": "155", "label": { "en": "West Indies' score, level with England's 155", "hi": "West Indies ka score, England ke 155 ke barabar" }, "source": "computed" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "+16: a six plus the 25 Run Bonus. The over is now worth +40 to Brathwaite.",
+                "hi": "+16: six plus 25 Run Bonus. Over ab Brathwaite ko +40 de chuka."
+              },
+              "body": {
+                "en": "Crossing 25 adds a 4-point milestone bonus on top of the six's 12 points.",
+                "hi": "25 cross karne pe six ke 12 points ke upar 4 ka milestone bonus."
+              },
+              "ledger": [
+                { "player": "Carlos Brathwaite", "team": "WI", "ruleId": "bat.run", "count": 6 },
+                { "player": "Carlos Brathwaite", "team": "WI", "ruleId": "bat.six_bonus", "count": 1 },
+                { "player": "Carlos Brathwaite", "team": "WI", "ruleId": "bat.25_run_bonus", "count": 1 }
+              ],
+              "notes": [
+                { "en": "Brathwaite moves from 22 to 28, crossing 25. 12 + 12 + 16 = 40 points from three balls.", "hi": "Brathwaite 22 se 28, 25 cross. Teen balls mein 12 + 12 + 16 = 40 points." }
+              ],
+              "caveats": []
+            }
+          }
+        },
+        {
+          "id": "six-four",
+          "ball": "19.4",
+          "timelineId": "19.4",
+          "title": { "en": "Four sixes, one title", "hi": "Chaar sixes, ek title" },
+          "bowler": "Ben Stokes",
+          "striker": { "name": "Carlos Brathwaite", "before": { "runs": 28, "balls": 9 }, "after": { "runs": 34, "balls": 10 } },
+          "nonStriker": { "name": "Marlon Samuels", "score": { "runs": 85, "balls": 66 } },
+          "event": {
+            "tag": "SIX · WIN",
+            "kind": "win",
+            "summary": {
+              "en": "Stokes to Brathwaite, 1 needed: swung over deep midwicket for a fourth SIX in a row. West Indies are world champions.",
+              "hi": "Stokes to Brathwaite, 1 chahiye: deep midwicket ke upar lagaataar chautha SIX. West Indies world champion."
+            },
+            "impact": { "value": "+6", "label": { "en": "the winning hit", "hi": "jeet wala shot" } }
+          },
+          "shot": { "result": "six", "angle": -62, "distance": 1.1, "label": "SIX! WIN!" },
+          "before": { "runs": 155, "wickets": 6, "balls": 117 },
+          "after": { "runs": 161, "wickets": 6, "balls": 118 },
+          "lenses": {
+            "beginner": {
+              "teaser": { "en": "How West Indies won", "hi": "West Indies kaise jeeta" },
+              "headline": {
+                "en": "Four sixes in four balls. West Indies are world champions!",
+                "hi": "Chaar balls, chaar sixes. West Indies world champion!"
+              },
+              "body": {
+                "en": "Needing just 1, Brathwaite hit a fourth six, over midwicket. West Indies won the World T20 final by 4 wickets, with 2 balls to spare.",
+                "hi": "Sirf 1 chahiye tha, aur Brathwaite ne midwicket ke upar chautha six maar diya. West Indies ne World T20 final 4 wickets se jeeta, 2 balls baaki rehte."
+              },
+              "analogy": {
+                "en": "Like needing one point and scoring from your own half.",
+                "hi": "Jaise ek point chahiye ho aur aap apne half se goal maar do."
+              },
+              "watchNext": {
+                "en": "Match over. Brathwaite: 34 not out off 10 balls.",
+                "hi": "Match khatam. Brathwaite: 10 balls pe 34 not out."
+              },
+              "decoder": [
+                { "term": "Midwicket", "meaning": { "en": "Fielding spot on the leg side, between square and the bowler.", "hi": "Leg side pe, square aur bowler ke beech ki position." } },
+                { "term": "Balls to spare", "meaning": { "en": "Balls left unused when the chase is completed.", "hi": "Chase poora hone pe bachi hui balls." } }
+              ]
+            },
+            "strategist": {
+              "teaser": { "en": "The field up, the rope open", "hi": "Field andar, rope khuli" },
+              "headline": {
+                "en": "With 1 needed, England's only hope was a wicket. Brathwaite didn't need a single.",
+                "hi": "1 run chahiye tha, England ki ummeed sirf wicket thi. Brathwaite ko single ki zaroorat hi nahi padi."
+              },
+              "body": {
+                "en": "England brought the field in to save the single. That left the boundary open, and a batter who had just hit three sixes was never going to block. The plan all over was the yorker, and four times it missed by a little.",
+                "hi": "England ne single rokne ke liye field andar bulaayi. Isse boundary khuli reh gayi, aur teen six maar chuka batter block karne wala nahi tha. Poore over ka plan yorker tha, aur chaaron baar thoda sa chook gaya."
+              },
+              "side": { "en": "England's options for this ball", "hi": "Is ball ke liye England ke options" },
+              "options": [
+                {
+                  "label": { "en": "Field in, attack the stumps", "hi": "Field andar, stumps pe attack" },
+                  "detail": { "en": "Stops the single and hunts a wicket, but leaves the rope open.", "hi": "Single rokta hai aur wicket dhoondhta hai, par rope khuli." },
+                  "played": true,
+                  "risk": 60,
+                  "reward": 35
+                },
+                {
+                  "label": { "en": "Field back", "hi": "Field peeche" },
+                  "detail": { "en": "Stops the six but gives away the single that wins it.", "hi": "Six rukta hai, par jeet wala single mil jaata hai." },
+                  "played": false,
+                  "risk": 15,
+                  "reward": 5
+                },
+                {
+                  "label": { "en": "Bouncer", "hi": "Bouncer" },
+                  "detail": { "en": "A surprise, but any contact likely wins it.", "hi": "Surprise, par bat laga toh jeet lagbhag pakki." },
+                  "played": false,
+                  "risk": 55,
+                  "reward": 30
+                }
+              ],
+              "nextMove": {
+                "en": "Game over: West Indies 161/6 beat England's 155/9.",
+                "hi": "Game over: West Indies 161/6, England 155/9 ko haraya."
+              }
+            },
+            "statistician": {
+              "teaser": { "en": "24 off 4 balls", "hi": "4 balls pe 24" },
+              "headline": {
+                "en": "24 runs from 4 balls. 34 not out off 10.",
+                "hi": "4 balls pe 24 runs. 10 balls pe 34 not out."
+              },
+              "body": {
+                "en": "Brathwaite's strike rate is 340.00. West Indies needed 19 off the final over and got there with 2 balls to spare.",
+                "hi": "Brathwaite ka strike rate 340.00. West Indies ko last over mein 19 chahiye the, aur 2 balls pehle hi pahunch gaye."
+              },
+              "facts": [
+                { "value": "24", "label": { "en": "runs from four balls: four sixes in a row", "hi": "runs chaar balls pe: lagaataar chaar sixes" }, "source": "computed" },
+                { "value": "34* (10)", "label": { "en": "Brathwaite's final score", "hi": "Brathwaite ka final score" }, "source": "demo" },
+                { "value": "2", "label": { "en": "balls to spare when West Indies won", "hi": "balls baaki thi jab West Indies jeeta" }, "source": "computed" }
+              ]
+            },
+            "fantasy": {
+              "headline": {
+                "en": "+12 for the winning six. Then a +6 strike-rate bonus for Brathwaite.",
+                "hi": "Winning six ke +12. Phir Brathwaite ko strike rate ka +6."
+              },
+              "body": {
+                "en": "The winning six scores 12. With the innings over, Brathwaite's strike rate of 340.00 lands in the top band.",
+                "hi": "Winning six ke 12. Innings khatam, toh Brathwaite ka 340.00 strike rate top band mein."
+              },
+              "ledger": [
+                { "player": "Carlos Brathwaite", "team": "WI", "ruleId": "bat.run", "count": 6 },
+                { "player": "Carlos Brathwaite", "team": "WI", "ruleId": "bat.six_bonus", "count": 1 }
+              ],
+              "settlement": [
+                { "player": "Carlos Brathwaite", "team": "WI", "kind": "strikeRate", "runs": 34, "balls": 10 },
+                { "player": "Marlon Samuels", "team": "WI", "kind": "strikeRate", "runs": 85, "balls": 66 }
+              ],
+              "notes": [
+                { "en": "Brathwaite faced exactly 10 balls, the minimum for strike-rate points, so his 340.00 earns the top +6.", "hi": "Brathwaite ne theek 10 balls kheli, strike-rate points ka minimum, toh 340.00 pe top +6." },
+                { "en": "Across the final over: 24 Run points, four Six Bonuses (24) and the 25 Run Bonus (4) = 52 points.", "hi": "Poore last over mein: 24 Run points, chaar Six Bonus (24) aur 25 Run Bonus (4) = 52 points." }
+              ],
+              "caveats": [
+                { "kind": "unavailable", "text": { "en": "Ben Stokes's economy rate isn't scored: this demo match doesn't include his full figures.", "hi": "Ben Stokes ka economy rate score nahi kiya: is demo match mein unke poore figures nahi hain." } }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
